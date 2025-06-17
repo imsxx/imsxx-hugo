@@ -1,4 +1,4 @@
-baseURL = 'https://imsxx.github.io/imsxx-hugo/'
+baseURL = 'https://hugo.imsxx.com/'
 languageCode = 'zh-cn'
 title = 'imsxx的Hugo网站'
 theme = 'PaperMod'
