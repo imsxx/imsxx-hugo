@@ -1,0 +1,87 @@
+baseURL = 'https://imsxx.github.io/imsxx-hugo/'
+languageCode = 'zh-cn'
+title = 'imsxx的Hugo网站'
+theme = 'PaperMod'
+
+[params]
+  env = "production"
+  title = "imsxx的Hugo网站"
+  description = "使用Hugo构建的静态网站，部署在GitHub Pages"
+  keywords = ["Hugo", "静态网站", "博客"]
+  author = "imsxx"
+  
+  # 主页设置
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = false
+  tocopen = false
+
+  [params.assets]
+    # disableHLJS = true # to disable highlight.js
+    # disableFingerprinting = true
+    favicon = "/favicon.ico"
+    favicon16x16 = "/favicon-16x16.png"
+    favicon32x32 = "/favicon-32x32.png"
+    apple_touch_icon = "/apple-touch-icon.png"
+    safari_pinned_tab = "/safari-pinned-tab.svg"
+
+  [params.label]
+    text = "imsxx的Hugo网站"
+    icon = "/apple-touch-icon.png"
+    iconHeight = 35
+
+  # 主页信息
+  [params.homeInfoParams]
+    Title = "欢迎来到我的网站 👋"
+    Content = "这是使用Hugo构建并部署在GitHub Pages上的静态网站"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/imsxx"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "首页"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "posts"
+    name = "文章"
+    url = "/posts/"
+    weight = 20
+  [[menu.main]]
+    identifier = "archives"
+    name = "归档"
+    url = "/archives/"
+    weight = 30
+  [[menu.main]]
+    identifier = "tags"
+    name = "标签"
+    url = "/tags/"
+    weight = 40
+
+# GitHub Pages 部署设置
+[deployment]
+  [[deployment.targets]]
+    name = "github"
+    URL = "https://github.com/imsxx/imsxx-hugo"
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+    codeFences = true
+    guessSyntax = true
+    lineNos = true
+    style = "github"
