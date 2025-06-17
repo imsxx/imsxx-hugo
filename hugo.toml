@@ -1,76 +1,159 @@
 baseURL = 'https://hugo.imsxx.com/'
 languageCode = 'zh-cn'
-title = 'imsxx的Hugo网站'
-theme = 'PaperMod'
+defaultContentLanguage = 'zh-cn'
+title = '梦随乡兮'
+theme = 'hugo-narrow'
+
+hasCJKLanguage = true
+enableEmoji = true
+
+permalinks = { posts = "/posts/:slug/" }
+
+# 分页设置
+[pagination]
+  pagerSize = 6
+  path = "page"
+
+# 分类法配置
+[taxonomies]
+  category = "categories"
+  tag = "tags"
 
 [params]
-  env = "production"
-  title = "imsxx的Hugo网站"
-  description = "使用Hugo构建的静态网站，部署在GitHub Pages"
-  keywords = ["Hugo", "静态网站", "博客"]
-  author = "imsxx"
+  # 基本站点信息
+  description = "梦随乡兮的个人博客，留给我的时间恐怕是不多了。"
+  keywords = ["梦随乡兮", "生活记录", "个人笔记"]
+  defaultAuthor = "梦随乡兮"
+  language = "zh-CN"
+  shortName = "梦随"
   
-  # 主页设置
-  ShowReadingTime = true
-  ShowShareButtons = true
-  ShowPostNavLinks = true
-  ShowBreadCrumbs = true
-  ShowCodeCopyButtons = true
-  ShowWordCount = true
-  ShowRssButtonInSectionTermList = true
-  UseHugoToc = true
-  disableSpecial1stPost = false
-  disableScrollToTop = false
-  comments = false
-  hidemeta = false
-  hideSummary = false
-  showtoc = false
-  tocopen = false
-
-  [params.assets]
-    # disableHLJS = true # to disable highlight.js
-    # disableFingerprinting = true
-    favicon = "/favicon.ico"
-    favicon16x16 = "/favicon-16x16.png"
-    favicon32x32 = "/favicon-32x32.png"
-    apple_touch_icon = "/apple-touch-icon.png"
-    safari_pinned_tab = "/safari-pinned-tab.svg"
-
-  [params.label]
-    text = "imsxx的Hugo网站"
-    icon = "/apple-touch-icon.png"
-    iconHeight = 35
-
-  # 主页信息
-  [params.homeInfoParams]
-    Title = "欢迎来到我的网站 👋"
-    Content = "这是使用Hugo构建并部署在GitHub Pages上的静态网站"
-
-  [[params.socialIcons]]
-    name = "github"
+  # Logo 和 Favicon
+  [params.logo]
+    link = "/"
+    image = "/logo.png"
+  
+  [params.favicon]
+    svg = "/favicon.svg"
+  
+  # 作者信息
+  [params.author]
+    name = "梦随乡兮"
+    title = "四川·成都"
+    description = "一年也更新不了几次，干脆搬github上白嫖了"
+    avatar = "/logo.png"
+    
+    [[params.author.social]]
+      name = "GitHub"
+      url = "https://github.com/imsxx"
+      icon = "github"
+  
+  # UI 组件控制
+  showThemeSwitch = true
+  showDarkModeSwitch = true
+  showLanguageSwitch = false
+  stickyHeader = true
+  
+  # 默认配色方案
+  colorScheme = "default"
+  
+  [params.themes]
+    [params.themes.default]
+      name = "Default"
+      order = 1
+    [params.themes.claude]
+      name = "Claude"
+      order = 2
+    [params.themes.emerald]
+      name = "Emerald"
+      order = 3
+    [params.themes.nord]
+      name = "Nord"
+      order = 4
+  
+  # 首页设置
+  [params.home]
+    recentPostsCount = 5
+  
+  # 文章设置
+  [params.post]
+    showRelated = true
+    relatedPostsCount = 3
+    showLicense = true
+    
+    [params.post.license]
+      name = "CC BY-NC-SA 4.0"
+      url = "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      displayName = "CC BY-NC-SA 4.0"
+  
+  # 评论系统
+  [params.comments]
+    enabled = false
+    system = "giscus"
+  
+  # 分析统计
+  [params.analytics]
+    enabled = false
+  
+  # KaTeX 数学公式
+  [params.katex]
+    enabled = false
+  
+  # Mermaid 图表
+  [params.mermaid]
+    enabled = false
+  
+  # 灯箱效果
+  [params.lightbox]
+    enabled = false
+  
+  # 图片画廊
+  [params.justified_gallery]
+    enabled = false
     url = "https://github.com/imsxx"
 
-[menu]
-  [[menu.main]]
-    identifier = "home"
-    name = "首页"
-    url = "/"
-    weight = 10
-  [[menu.main]]
-    identifier = "posts"
-    name = "文章"
-    url = "/posts/"
+[menus]
+  [[menus.main]]
+    name = "nav.posts"
+    pageRef = "/posts"
     weight = 20
-  [[menu.main]]
-    identifier = "archives"
-    name = "归档"
-    url = "/archives/"
+    [menus.main.params]
+      icon = "posts"
+  
+  [[menus.main]]
+    name = "nav.categories"
+    pageRef = "/categories"
     weight = 30
-  [[menu.main]]
-    identifier = "tags"
-    name = "标签"
-    url = "/tags/"
+    [menus.main.params]
+      icon = "categories"
+  
+  [[menus.main]]
+    name = "nav.tags"
+    pageRef = "/tags"
     weight = 40
+    [menus.main.params]
+      icon = "tags"
+  
+  [[menus.main]]
+    name = "nav.archives"
+    pageRef = "/archives"
+    weight = 50
+    [menus.main.params]
+      icon = "archive"
+  
+  # 页脚菜单
+  [[menus.footer]]
+    name = "关于"
+    pageRef = "/about"
+    weight = 10
+    [menus.footer.params]
+      icon = "about"
+  
+  [[menus.footer]]
+    name = "RSS订阅"
+    url = "/index.xml"
+    weight = 30
+    [menus.footer.params]
+      icon = "rss"
 
 # GitHub Pages 部署设置
 [deployment]
@@ -78,10 +161,48 @@ theme = 'PaperMod'
     name = "github"
     URL = "https://github.com/imsxx/imsxx-hugo"
 
+# 代码块设置
+[codeblock]
+  [codeblock.collapse]
+    enabled = true
+    defaultState = "expanded"
+    autoCollapseLines = 30
+    autoCollapseHeight = 400
+    collapsedHeight = 120
+
+# 阅读进度条
+[readingProgress]
+  enabled = true
+  height = 3
+  showOnHomepage = false
+  smoothScroll = true
+  hideOnComplete = false
+
 [markup]
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4
+    ordered = false
+  
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  
   [markup.highlight]
-    noClasses = false
     codeFences = true
-    guessSyntax = true
-    lineNos = true
+    guessSyntax = false
+    lineNos = false
+    lineNumbersInTable = false
+    noClasses = false
     style = "github"
+    tabWidth = 2
+
+# 输出格式
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# Hugo 模块设置
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.146.0"
