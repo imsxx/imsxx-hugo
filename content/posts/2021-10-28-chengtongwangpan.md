@@ -6,58 +6,33 @@ date: 2021-10-28T08:57:05+00:00
 url: /chengtongwangpan.html
 featured_image: https://r2.imsxx.com/wp-content/uploads/2021/10/QQ截图20211028165613.png
 日志头图:
-  - https://r2.imsxx.com/wp-content/uploads/2021/10/QQ截图20211028165613.png
+- https://r2.imsxx.com/wp-content/uploads/2021/10/QQ截图20211028165613.png
 views:
-  - 3780
+- 3780
 like:
-  - 2
+- 2
 categories:
-  - 笔记
+- 笔记
 tags:
-  - 城通网盘
-  - 网盘下载
-
+- 城通网盘
+- 网盘下载
 slug: "chengtongwangpan"
 ---
 城通网盘一直都是个神奇的存在。神奇在这个基本在网上没有正面评价的网盘居然还活着。
-
 目前国内在用城通网盘的主力主要是一些daoban或擦边球内容压缩包。比如一些高清音乐论坛、古早的高清电影网站、MM站丝袜街拍站(懂的都懂)等。
-
 以上内容放在百度盘或者阿里盘上，很快就会失效但在城通上不会。
-
 昨天我需要下载六年前的一些资源，在谷歌、百度上搜了一圈很多下载链接都失效了。最后在城通上找到了资源。
-
 然后点击下载，我就看到了……
-
-最快70kb每秒，且不支持断点续传。我直接人好家伙- -然后看下载页面月会员、季会员、年会员、永久会员，占整个页面70%的篇幅推广。<figure class="wp-block-image size-large">
-
-<img loading="lazy" decoding="async" width="1024" height="283" src="https://r2.imsxx.com/wp-content/uploads/2021/10/QQ截图20211028165812.png" alt="" class="wp-image-395" /> </figure> 
-
+最快70kb每秒，且不支持断点续传。我直接人好家伙- -然后看下载页面月会员、季会员、年会员、永久会员，占整个页面70%的篇幅推广。<img width="1024" height="283" src="https://r2.imsxx.com/wp-content/uploads/2021/10/QQ截图20211028165812.png" alt="" />
 我平时用得不多，所以直接去淘宝搜一下看有没有共享账号，去油猴吾爱上面看看有没有高速下载的解析工具。要么没有，要么找到就失效了。
-
 左右衡量还是开个会员吧，由于会员种类太多，专门去搜了一下区别。
-
-我tm直接好家伙，一水的差评。很多用户看到永久会员折扣倒计时就把持不住，想冲一波。结果发现城通的永久会员是天天打折，那个倒计时不过是个摆设而已。看这里： **<a rel="nofollow" rel="noreferrer noopener" href="https://www.zhihu.com/question/298013788" target="_blank">如何评价城通网盘？——知乎</a>** 
-
+我tm直接好家伙，一水的差评。很多用户看到永久会员折扣倒计时就把持不住，想冲一波。结果发现城通的永久会员是天天打折，那个倒计时不过是个摆设而已。看这里： **<a rel="nofollow" rel="noreferrer noopener" href="https://www.zhihu.com/question/298013788" target="_blank">如何评价城通网盘？——知乎</a>**
 网上找人问了一圈也没几个人知道城通网盘，知道的也都是极差映像。
-
-看着吊样子我只能靠自己了，想着资料对我还是挺重要的，开了个99的普通年费会员。<figure class="wp-block-image size-large">
-
-<img loading="lazy" decoding="async" width="1024" height="345" src="https://r2.imsxx.com/wp-content/uploads/2021/10/QQ截图20211028165758.png" alt="" class="wp-image-396" /> </figure> 
-
+看着吊样子我只能靠自己了，想着资料对我还是挺重要的，开了个99的普通年费会员。<img width="1024" height="345" src="https://r2.imsxx.com/wp-content/uploads/2021/10/QQ截图20211028165758.png" alt="" />
 <p class="is-style-default">
-  然后……
-</p>
-
-<div class="wp-block-image">
-  <figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="546" height="445" src="https://r2.imsxx.com/wp-content/uploads/2021/10/QQ截图20211028225814.png" alt="" class="wp-image-403" /></figure>
-</div>
-
+然后……
+<img width="546" height="445" src="https://r2.imsxx.com/wp-content/uploads/2021/10/QQ截图20211028225814.png" alt="" />
 15MB/秒，虽然达不到我带宽上限，但还是直接好家伙。果然氪金和不氪金的区别就是不一样！原本要下4天的资源秒秒钟搞定。
-
 就这样实际体验下来，这个中等的会员完全够用，只是下载东西不主力使用这个网盘的话，建议别去冲超级会员，更别去搞什么永久会员。纯智商税。
-
 要不是因为资源就这里有，傻逼才花这个钱。
-
 另外，我在淘宝没有搜到共享账号，但是有代下载服务。就是你把链接给卖家，卖家下载好后用QQ或者邮箱把东西发给你。这个只适合资源不敏感且容量不大的情况，不然卖家发给你也不见得能有多快。
-
