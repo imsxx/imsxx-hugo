@@ -4,7 +4,7 @@ author: 梦随乡兮
 type: post
 date: 2019-11-18T08:00:04+00:00
 url: /wordpress-redis.html
-featured_image: https://imsxx.com/wp-content/uploads/2019/11/c4d79289f8430ab.jpg
+featured_image: https://r2.imsxx.com/wp-content/uploads/2019/11/c4d79289f8430ab.jpg
 fromname_value:
   - 熊猫博客
 fromurl_value:
@@ -69,7 +69,7 @@ slug: "wordpress-redis"
 
 在宝塔软件管理搜索“Redis”点击安装，开启首页展示
 
-[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-213" src="https://imsxx.com/wp-content/uploads/2019/11/ed20bc3c79b871c.jpg" alt="" width="795" height="292" />][1]
+[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-213" src="https://r2.imsxx.com/wp-content/uploads/2019/11/ed20bc3c79b871c.jpg" alt="" width="795" height="292" />][1]
 
 ### <span class="ez-toc-section" id="%E5%AE%89%E8%A3%85PHP_Redis%E6%89%A9%E5%B1%95"></span>安装PHP Redis扩展<span class="ez-toc-section-end"></span>
 
@@ -77,7 +77,7 @@ slug: "wordpress-redis"
 
 找到你安装的PHP版本，选择安装扩展，安装Redis
 
-[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-214" src="https://imsxx.com/wp-content/uploads/2019/11/c6b1a47a288a50d.jpg" alt="" width="633" height="561" />][2]
+[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-214" src="https://r2.imsxx.com/wp-content/uploads/2019/11/c6b1a47a288a50d.jpg" alt="" width="633" height="561" />][2]
 
 ### <span class="ez-toc-section" id="WordPress%E5%AE%89%E8%A3%85Redis%E6%8F%92%E4%BB%B6"></span>WordPress安装Redis插件<span class="ez-toc-section-end"></span>
 
@@ -85,7 +85,7 @@ slug: "wordpress-redis"
 
 进入WordPress管理后台，搜索插件**Redis Object Cache**并安装，先别着急启用。
 
-[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-215" src="https://imsxx.com/wp-content/uploads/2019/11/c4d79289f8430ab.jpg" alt="" width="576" height="405" />][3]
+[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-215" src="https://r2.imsxx.com/wp-content/uploads/2019/11/c4d79289f8430ab.jpg" alt="" width="576" height="405" />][3]
 
 ### <span class="ez-toc-section" id="%E8%AE%BE%E7%BD%AERedis%E5%A4%9A%E7%AB%99%E7%82%B9%E9%85%8D%E7%BD%AE"></span>设置Redis多站点配置<span class="ez-toc-section-end"></span>
 
@@ -95,7 +95,7 @@ slug: "wordpress-redis"
 
 使用宝塔面板找到站点目录下的wp-config.php，点击编辑，在头部注释下方增加以下代码
 
-[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-216" src="https://imsxx.com/wp-content/uploads/2019/11/c431b5169b8d030.jpg" alt="" width="558" height="405" />][4]
+[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-216" src="https://r2.imsxx.com/wp-content/uploads/2019/11/c431b5169b8d030.jpg" alt="" width="558" height="405" />][4]
 
 `<span class="me0">define</span><span class="br0">(</span> <span class="st1">'WP_CACHE_KEY_SALT'</span><span class="">, </span><span class="st1">'你的网站域名'</span> <span class="br0">)</span><span class="">;</span>`
 
@@ -111,7 +111,7 @@ slug: "wordpress-redis"
 
 经过以上步骤，就可以在WordPress插件管理页面启用Redis缓存，然后多刷新几次你的站点，在宝塔Redis的负载状态中看到命中率就代表配置成功了
 
-[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-217" src="https://imsxx.com/wp-content/uploads/2019/11/d30ce47d8a550ac.jpg" alt="" width="612" height="528" />][5]
+[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-217" src="https://r2.imsxx.com/wp-content/uploads/2019/11/d30ce47d8a550ac.jpg" alt="" width="612" height="528" />][5]
 
 <div class="entry-content">
   <h3>
@@ -125,9 +125,9 @@ slug: "wordpress-redis"
   </p>
 </div>
 
- [1]: https://imsxx.com/wp-content/uploads/2019/11/ed20bc3c79b871c.jpg
- [2]: https://imsxx.com/wp-content/uploads/2019/11/c6b1a47a288a50d.jpg
- [3]: https://imsxx.com/wp-content/uploads/2019/11/c4d79289f8430ab.jpg
- [4]: https://imsxx.com/wp-content/uploads/2019/11/c431b5169b8d030.jpg
- [5]: https://imsxx.com/wp-content/uploads/2019/11/d30ce47d8a550ac.jpg
+ [1]: https://r2.imsxx.com/wp-content/uploads/2019/11/ed20bc3c79b871c.jpg
+ [2]: https://r2.imsxx.com/wp-content/uploads/2019/11/c6b1a47a288a50d.jpg
+ [3]: https://r2.imsxx.com/wp-content/uploads/2019/11/c4d79289f8430ab.jpg
+ [4]: https://r2.imsxx.com/wp-content/uploads/2019/11/c431b5169b8d030.jpg
+ [5]: https://r2.imsxx.com/wp-content/uploads/2019/11/d30ce47d8a550ac.jpg
 

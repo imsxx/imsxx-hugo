@@ -4,11 +4,11 @@ author: 梦随乡兮
 type: post
 date: 2022-10-18T05:40:49+00:00
 url: /wordpress-theme.html
-featured_image: https://imsxx.com/wp-content/uploads/2022101815421952.png
+featured_image: https://r2.imsxx.com/wp-content/uploads/2022101815421952.png
 views:
   - 2474
 日志头图:
-  - https://imsxx.com/wp-content/uploads/2021/09/Rain01.png
+  - https://r2.imsxx.com/wp-content/uploads/2021/09/Rain01.png
 打赏:
   - checked
 like:
@@ -102,7 +102,7 @@ slug: "wordpress-theme"
 
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="343" class="wp-image-372 aligncenter" src="https://imsxx.com/wp-content/uploads/2021/09/lightsns.png" alt="" /></figure> 
+  <figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="343" class="wp-image-372 aligncenter" src="https://r2.imsxx.com/wp-content/uploads/2021/09/lightsns.png" alt="" /></figure> 
   
   <p>
     国内独立开发者作品，是我最早入手的WordPress主题，主打轻量化社交体验。前后台功能非常完善，开发者的更新修复效率也非常高。<span style="color: #3366ff;"><strong>该主题适合做社交网站和私域网站。</strong></span>
@@ -159,7 +159,7 @@ slug: "wordpress-theme"
 
 ### <span class="ez-toc-section" id="20190215_%E8%B4%AD%E5%85%A5_XIU"></span>2019/02/15 购入 XIU<span class="ez-toc-section-end"></span>
 
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-578" src="https://imsxx.com/wp-content/uploads/2022101815225438.png" alt="" width="1903" height="660" /> 
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-578" src="https://r2.imsxx.com/wp-content/uploads/2022101815225438.png" alt="" width="1903" height="660" /> 
 
 “大前端主题”团队(themebetter)开发的主题，这可能也是他家最知名的主题。适合图片展示量较大的站点。
 
@@ -186,7 +186,7 @@ slug: "wordpress-theme"
 
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="343" class="wp-image-374 aligncenter" src="https://imsxx.com/wp-content/uploads/2021/09/relive.png" alt="" /></figure>
+  <figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="343" class="wp-image-374 aligncenter" src="https://r2.imsxx.com/wp-content/uploads/2021/09/relive.png" alt="" /></figure>
 </div>
 
 
@@ -223,7 +223,7 @@ slug: "wordpress-theme"
 ### <span class="ez-toc-section" id="20190612_%E8%B4%AD%E5%85%A5_7B2_PRO"></span>2019/06/12 购入 7B2 PRO<span class="ez-toc-section-end"></span>
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="343" class="wp-image-368 aligncenter" src="https://imsxx.com/wp-content/uploads/2021/09/b2.png" alt="" /></figure> 
+  <figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="343" class="wp-image-368 aligncenter" src="https://r2.imsxx.com/wp-content/uploads/2021/09/b2.png" alt="" /></figure> 
   
   <p>
     这是位独立开发者制作的主题，已经更新了三四年，功能和样式上也愈发成熟。<span style="color: #3366ff;"><strong>适用于个人博客、多用户社交、资源交易等多用途。</strong></span>
@@ -261,7 +261,7 @@ slug: "wordpress-theme"
 ### <span class="ez-toc-section" id="20191115_%E8%B4%AD%E5%85%A5_DUX"></span>2019/11/15 购入 DUX<span class="ez-toc-section-end"></span> {.wp-block-heading}
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="344" class="wp-image-369 aligncenter" src="https://imsxx.com/wp-content/uploads/2021/09/dux.png" alt="" /></figure> 
+  <figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="344" class="wp-image-369 aligncenter" src="https://r2.imsxx.com/wp-content/uploads/2021/09/dux.png" alt="" /></figure> 
   
   <p>
     “大前端主题”团队(themebetter)开发的主题，他家最大的特点是稳定更新，该主题从2015年一直更新至今，每年至少4个版本，功能非常完善几乎找不出bug。<span style="color: #3366ff;"><strong>适用于个人博客。</strong></span>
@@ -290,7 +290,7 @@ slug: "wordpress-theme"
 ### <span class="ez-toc-section" id="20201111_%E8%B4%AD%E5%85%A5_Panda_PRO"></span>2020/11/11 购入 Panda PRO<span class="ez-toc-section-end"></span> {.wp-block-heading}
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="343" class="wp-image-370 aligncenter" src="https://imsxx.com/wp-content/uploads/2021/09/QQ截图20210910131618.png" alt="" /></figure>
+  <figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="343" class="wp-image-370 aligncenter" src="https://r2.imsxx.com/wp-content/uploads/2021/09/QQ截图20210910131618.png" alt="" /></figure>
 </div>
 
 nicetheme主题旗下作品，他们家所有主题都极具当代设计感，至少在我个人看来很有美感。Panda PRO是他们家的热销主题，<span style="color: #3366ff;"><strong>适合做个人博客、资讯杂志网站。</strong></span>
@@ -319,7 +319,7 @@ nicetheme主题旗下作品，他们家所有主题都极具当代设计感，�
 ### <span class="ez-toc-section" id="20210119_%E8%B4%AD%E5%85%A5_Rouse"></span>2021/01/19 购入 Rouse<span class="ez-toc-section-end"></span>
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="343" class="wp-image-373 aligncenter" src="https://imsxx.com/wp-content/uploads/2021/09/rouse.png" alt="" /></figure> 
+  <figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="343" class="wp-image-373 aligncenter" src="https://r2.imsxx.com/wp-content/uploads/2021/09/rouse.png" alt="" /></figure> 
   
   <p>
     独立开发者作品，该开发者的所有主题都有强烈的设计风格，把拟物风玩得非常6，我愿称之为优雅~<span style="color: #3366ff;"><strong>适合做个人博客和图片网站。</strong></span>
@@ -349,7 +349,7 @@ nicetheme主题旗下作品，他们家所有主题都极具当代设计感，�
 ### <span class="ez-toc-section" id="20210905_%E8%B4%AD%E5%85%A5_DiVi"></span>2021/09/05 购入 DiVi<span class="ez-toc-section-end"></span> {.wp-block-heading}
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="343" class="wp-image-371 aligncenter" src="https://imsxx.com/wp-content/uploads/2021/09/divi.png" alt="" /></figure>
+  <figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="343" class="wp-image-371 aligncenter" src="https://r2.imsxx.com/wp-content/uploads/2021/09/divi.png" alt="" /></figure>
 </div>
 
 我入手的第一款国外主题，他可以说是WordPress程序上自定义最丰富易用的主题，只要肯学习，可以实现完全0基础制作高大上的网站。并且它也内置了数百个免费模板，<span style="color: #3366ff;"><strong>整体适用于跨境电商、企业宣传站、产品演示站。</strong></span>
@@ -379,7 +379,7 @@ nicetheme主题旗下作品，他们家所有主题都极具当代设计感，�
 
 ### <span class="ez-toc-section" id="20221014_%E8%B4%AD%E5%85%A5_CUX"></span>2022/10/14 购入 C.U.X<span class="ez-toc-section-end"></span>
 
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-579" src="https://imsxx.com/wp-content/uploads/2022101815264949.png" alt="" width="1903" height="928" /> 
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-579" src="https://r2.imsxx.com/wp-content/uploads/2022101815264949.png" alt="" width="1903" height="928" /> 
 
 适合安静写点东西的主题，大气，纯粹。
 

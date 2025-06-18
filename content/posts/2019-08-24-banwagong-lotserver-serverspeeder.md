@@ -4,7 +4,7 @@ author: 梦随乡兮
 type: post
 date: 2019-08-23T16:28:37+00:00
 url: /banwagong-lotserver-serverspeeder.html
-featured_image: https://imsxx.com/wp-content/uploads/2019/08/QQ截图20190824001650.png
+featured_image: https://r2.imsxx.com/wp-content/uploads/2019/08/QQ截图20190824001650.png
 views:
   - 1911
 b2_vote:
@@ -41,7 +41,7 @@ slug: "banwagong-lotserver-serverspeeder"
 
 首先尝试的是debian9 64位，结果报错了。网上查了一下据说是搬瓦工不支持换内核，但锐速对内核又有严格要求。So&#8230;
 
-[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-153" src="https://imsxx.com/wp-content/uploads/2019/08/QQ截图20190824001650.png" alt="" width="499" height="386" />][1]
+[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-153" src="https://r2.imsxx.com/wp-content/uploads/2019/08/QQ截图20190824001650.png" alt="" width="499" height="386" />][1]
 
 重新安装debian8 64位，这次不报错了，但提示：
 
@@ -59,7 +59,7 @@ slug: "banwagong-lotserver-serverspeeder"
 
 接下来使用上面的自动安装代码，即可安装成功，安装成功的界面如下：
 
-[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-154" src="https://imsxx.com/wp-content/uploads/2019/08/QQ截图20190824002542.png" alt="" width="502" height="678" />][2]
+[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-154" src="https://r2.imsxx.com/wp-content/uploads/2019/08/QQ截图20190824002542.png" alt="" width="502" height="678" />][2]
 
 看上上面的界面，你就可以正常使用锐速了。不过现在它还不是那么好用，因为默认的配置并不适用于不同环境和配置的vps。
 
@@ -75,6 +75,6 @@ slug: "banwagong-lotserver-serverspeeder"
 
 教程完~
 
- [1]: https://imsxx.com/wp-content/uploads/2019/08/QQ截图20190824001650.png
- [2]: https://imsxx.com/wp-content/uploads/2019/08/QQ截图20190824002542.png
+ [1]: https://r2.imsxx.com/wp-content/uploads/2019/08/QQ截图20190824001650.png
+ [2]: https://r2.imsxx.com/wp-content/uploads/2019/08/QQ截图20190824002542.png
 

@@ -4,11 +4,11 @@ author: 梦随乡兮
 type: post
 date: 2021-09-02T08:13:48+00:00
 url: /wordpress-cdn-cn.html
-featured_image: https://imsxx.com/wp-content/uploads/2021/09/banner-wordpress.png
+featured_image: https://r2.imsxx.com/wp-content/uploads/2021/09/banner-wordpress.png
 views:
   - 710
 日志头图:
-  - https://imsxx.com/wp-content/uploads/2021/09/banner-wordpress.png
+  - https://r2.imsxx.com/wp-content/uploads/2021/09/banner-wordpress.png
 categories:
   - 笔记
 tags:

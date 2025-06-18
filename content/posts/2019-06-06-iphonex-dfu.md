@@ -4,7 +4,7 @@ author: 梦随乡兮
 type: post
 date: 2019-06-05T18:48:27+00:00
 url: /iphonex-dfu.html
-featured_image: https://imsxx.com/wp-content/uploads/2019/06/iOS-12-Beta-2-without-developer-account-240x180.png
+featured_image: https://r2.imsxx.com/wp-content/uploads/2019/06/iOS-12-Beta-2-without-developer-account-240x180.png
 views:
   - 4773
 like:
@@ -23,7 +23,7 @@ tags:
 
 slug: "iphonex-dfu"
 ---
-[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-58" src="https://imsxx.com/wp-content/uploads/2019/06/iOS-12-Beta-2-without-developer-account.png" alt="" width="900" height="463" />][1]
+[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-58" src="https://r2.imsxx.com/wp-content/uploads/2019/06/iOS-12-Beta-2-without-developer-account.png" alt="" width="900" height="463" />][1]
 
 接上一篇文章，<a href="https://imsxx.com/itunes-ios.html" target="_blank" rel="noopener noreferrer">win10下iTunes恢复iOS版本提示“磁盘已满”的解决办法</a>。
 
@@ -41,9 +41,9 @@ iOS13降级到iOS12并不容易，通过iTunes恢复后开机出现白苹果并�
 
 验证了备份密码后，我们就可以进入恢复模式了。
 
-[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-57" src="https://imsxx.com/wp-content/uploads/2019/06/Snipaste_2019-06-06_02-44-53.jpg" alt="" width="428" height="159" />][2]恢复过程中如果出现了“磁盘已满无法恢复”这样的沙雕提示，就点击这里看这篇文章：<a href="https://imsxx.com/itunes-ios.html" target="_blank" rel="noopener noreferrer">win10下iTunes恢复iOS版本提示“磁盘已满”的解决办法</a>。
+[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-57" src="https://r2.imsxx.com/wp-content/uploads/2019/06/Snipaste_2019-06-06_02-44-53.jpg" alt="" width="428" height="159" />][2]恢复过程中如果出现了“磁盘已满无法恢复”这样的沙雕提示，就点击这里看这篇文章：<a href="https://imsxx.com/itunes-ios.html" target="_blank" rel="noopener noreferrer">win10下iTunes恢复iOS版本提示“磁盘已满”的解决办法</a>。
 
-[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-60" src="https://imsxx.com/wp-content/uploads/2019/06/Snipaste_2019-06-06_03-35-40.jpg" alt="" width="417" height="186" />][3]
+[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-60" src="https://r2.imsxx.com/wp-content/uploads/2019/06/Snipaste_2019-06-06_03-35-40.jpg" alt="" width="417" height="186" />][3]
 
 跑完这个非常漫长的恢复备份后，就会出现上图这样的提示，这时就可以拔掉数据线了，手机会自动开机，并且让你向上滑动输入密码开始恢复数据。
 
@@ -51,7 +51,7 @@ iOS13降级到iOS12并不容易，通过iTunes恢复后开机出现白苹果并�
 
 完结，撒花！
 
- [1]: https://imsxx.com/wp-content/uploads/2019/06/iOS-12-Beta-2-without-developer-account.png
- [2]: https://imsxx.com/wp-content/uploads/2019/06/Snipaste_2019-06-06_02-44-53.jpg
- [3]: https://imsxx.com/wp-content/uploads/2019/06/Snipaste_2019-06-06_03-35-40.jpg
+ [1]: https://r2.imsxx.com/wp-content/uploads/2019/06/iOS-12-Beta-2-without-developer-account.png
+ [2]: https://r2.imsxx.com/wp-content/uploads/2019/06/Snipaste_2019-06-06_02-44-53.jpg
+ [3]: https://r2.imsxx.com/wp-content/uploads/2019/06/Snipaste_2019-06-06_03-35-40.jpg
 

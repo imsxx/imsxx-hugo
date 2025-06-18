@@ -4,7 +4,7 @@ author: 梦随乡兮
 type: post
 date: 2022-11-06T14:33:46+00:00
 url: /cloudflare-url-zhuanfa.html
-featured_image: https://imsxx.com/wp-content/uploads/9d840e3d45a82a0.png
+featured_image: https://r2.imsxx.com/wp-content/uploads/9d840e3d45a82a0.png
 views:
   - 1943
 categories:
@@ -35,11 +35,11 @@ slug: "cloudflare-url-zhuanfa"
 
 首先进入需要转发的域名页面。
 
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-753" src="https://imsxx.com/wp-content/uploads/07ded96df5c4827.png" alt="" width="1827" height="847" /> 
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-753" src="https://r2.imsxx.com/wp-content/uploads/07ded96df5c4827.png" alt="" width="1827" height="847" /> 
 
 打开左侧栏的规则→页面规则，点击“创建页面规则”：
 
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-754" src="https://imsxx.com/wp-content/uploads/9d840e3d45a82a0.png" alt="" width="854" height="561" /> 
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-754" src="https://r2.imsxx.com/wp-content/uploads/9d840e3d45a82a0.png" alt="" width="854" height="561" /> 
 
   * 【URL】即你要用来转发的域名，你可以设置全域名转发<span class="su-label su-label-type-success">*ygodl.com/*</span>中间域名换成你自己的。也可以<span class="su-label su-label-type-success">*ygodl.com/1.html*</span>来指定某个路径特定页面来转发。
   * 【选取设置】选择“转发URL”
@@ -48,7 +48,7 @@ slug: "cloudflare-url-zhuanfa"
 
 设置好上面的内容后转发实际上就已经生效了，如果你到这步没生效，那么就再做下面的设置。
 
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-755" src="https://imsxx.com/wp-content/uploads/d167a8b18ac5e7f.png" alt="" width="1050" height="319" /> 
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-755" src="https://r2.imsxx.com/wp-content/uploads/d167a8b18ac5e7f.png" alt="" width="1050" height="319" /> 
 
 来到域名解析处，添加A记录：记录值@、IP随便写都行，然后保存。
 

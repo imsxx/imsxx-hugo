@@ -4,7 +4,7 @@ author: 梦随乡兮
 type: post
 date: 2019-08-23T08:57:51+00:00
 url: /zhifubao-qianyue.html
-featured_image: https://imsxx.com/wp-content/uploads/2019/08/QQ截图20190823165233.jpg
+featured_image: https://r2.imsxx.com/wp-content/uploads/2019/08/QQ截图20190823165233.jpg
 views:
   - 1439
 like:
@@ -24,7 +24,7 @@ slug: "zhifubao-qianyue"
 ---
 最近支付宝个人签约当面付火起来了，试了下发现多次提交被驳回，原因是：我多年前注册的一个域名被人用来搞H色了，我寻思打电话问问客服怎么处理吧。毕竟我目前申请的网站并不违规，报错的是另一个站。
 
-[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-147" src="https://imsxx.com/wp-content/uploads/2019/08/QQ截图20190823165553.jpg" alt="" width="321" height="236" />][1]
+[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-147" src="https://r2.imsxx.com/wp-content/uploads/2019/08/QQ截图20190823165553.jpg" alt="" width="321" height="236" />][1]
 
 客服小姐姐也挺积极的帮我处理问题，原来之所以会不断报错那个被人搞H色的网站，是因为多早几年前我用那个网址绑定了支付宝个人版，并不是因为那个违规网址的备案或注册信息(备案我两年前就自助注销了)
 
@@ -38,7 +38,7 @@ slug: "zhifubao-qianyue"
 
 支付宝开放平台和支付宝商家平台是两个入口，所以在开放平台中如果没有确认消息，那就是在商家入口中。
 
-[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-142" src="https://imsxx.com/wp-content/uploads/2019/08/QQ截图20190823164051.jpg" alt="" width="849" height="362" />][2]
+[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-142" src="https://r2.imsxx.com/wp-content/uploads/2019/08/QQ截图20190823164051.jpg" alt="" width="849" height="362" />][2]
 
 登陆你的支付宝到商家系统的账户相关信息后台：<a rel="nofollow" href="https://b.alipay.com/order/viewmerchant.htm">https://b.alipay.com/order/viewmerchant.htm</a> 你就能看到是那个被人拿去乱搞的域名了。
 
@@ -46,21 +46,21 @@ slug: "zhifubao-qianyue"
 
 在支付宝企业版页面中：<a rel="nofollow" href="https://couriercore.alipay.com/messager/new.htm">https://couriercore.alipay.com/messager/new.htm</a> 你会看到右上角有消息提示：
 
-[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-143" src="https://imsxx.com/wp-content/uploads/2019/08/QQ截图20190823164540.jpg" alt="" width="272" height="134" />][3]
+[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-143" src="https://r2.imsxx.com/wp-content/uploads/2019/08/QQ截图20190823164540.jpg" alt="" width="272" height="134" />][3]
 
 这个消息的提示在其他页面的消息系统中是看不到的，我找了十分钟才看到。鼠标移上去就能看到消息，点击消息进去：
 
-[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-145" src="https://imsxx.com/wp-content/uploads/2019/08/QQ截图20190823165233.jpg" alt="" width="363" height="231" />][4]
+[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-145" src="https://r2.imsxx.com/wp-content/uploads/2019/08/QQ截图20190823165233.jpg" alt="" width="363" height="231" />][4]
 
 这时你会看到下面这个要求你输入支付密码来确认这个操作：
 
-[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-144" src="https://imsxx.com/wp-content/uploads/2019/08/QQ截图20190823165247.jpg" alt="" width="569" height="324" />][5]
+[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-144" src="https://r2.imsxx.com/wp-content/uploads/2019/08/QQ截图20190823165247.jpg" alt="" width="569" height="324" />][5]
 
 如果你是win10系统，那这步奏是很难走通的，因为我安装了控件重启了电脑依然没办法输入密码。
 
 曲线救国后，我用手机浏览器完成了这个页面的操作。
 
-[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-146" src="https://imsxx.com/wp-content/uploads/2019/08/QQ截图20190823165604.jpg" alt="" width="449" height="298" />][6]
+[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-146" src="https://r2.imsxx.com/wp-content/uploads/2019/08/QQ截图20190823165604.jpg" alt="" width="449" height="298" />][6]
 
 ## **流程2019-08-23晚**
 
@@ -68,11 +68,11 @@ slug: "zhifubao-qianyue"
 
 过了没两小时，也申请通过了。
 
-[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-158" src="https://imsxx.com/wp-content/uploads/2019/08/QQ截图20190824005524.png" alt="" width="408" height="170" />][7]
+[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-158" src="https://r2.imsxx.com/wp-content/uploads/2019/08/QQ截图20190824005524.png" alt="" width="408" height="170" />][7]
 
 再之后就是申请下面的当面付了。
 
-[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-159" src="https://imsxx.com/wp-content/uploads/2019/08/QQ截图20190824005533.png" alt="" width="1260" height="87" />][8]
+[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-159" src="https://r2.imsxx.com/wp-content/uploads/2019/08/QQ截图20190824005533.png" alt="" width="1260" height="87" />][8]
 
 不过说来也怪，网上看别人申请当面付最低是0.38费率，而我申请的时候是默认0.6费率。
 
@@ -84,12 +84,12 @@ So，0.6就0.6吧。希望明天就能给我过了哦~
 
 签约成功，结束~
 
- [1]: https://imsxx.com/wp-content/uploads/2019/08/QQ截图20190823165553.jpg
- [2]: https://imsxx.com/wp-content/uploads/2019/08/QQ截图20190823164051.jpg
- [3]: https://imsxx.com/wp-content/uploads/2019/08/QQ截图20190823164540.jpg
- [4]: https://imsxx.com/wp-content/uploads/2019/08/QQ截图20190823165233.jpg
- [5]: https://imsxx.com/wp-content/uploads/2019/08/QQ截图20190823165247.jpg
- [6]: https://imsxx.com/wp-content/uploads/2019/08/QQ截图20190823165604.jpg
- [7]: https://imsxx.com/wp-content/uploads/2019/08/QQ截图20190824005524.png
- [8]: https://imsxx.com/wp-content/uploads/2019/08/QQ截图20190824005533.png
+ [1]: https://r2.imsxx.com/wp-content/uploads/2019/08/QQ截图20190823165553.jpg
+ [2]: https://r2.imsxx.com/wp-content/uploads/2019/08/QQ截图20190823164051.jpg
+ [3]: https://r2.imsxx.com/wp-content/uploads/2019/08/QQ截图20190823164540.jpg
+ [4]: https://r2.imsxx.com/wp-content/uploads/2019/08/QQ截图20190823165233.jpg
+ [5]: https://r2.imsxx.com/wp-content/uploads/2019/08/QQ截图20190823165247.jpg
+ [6]: https://r2.imsxx.com/wp-content/uploads/2019/08/QQ截图20190823165604.jpg
+ [7]: https://r2.imsxx.com/wp-content/uploads/2019/08/QQ截图20190824005524.png
+ [8]: https://r2.imsxx.com/wp-content/uploads/2019/08/QQ截图20190824005533.png
 

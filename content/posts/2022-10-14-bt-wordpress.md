@@ -4,7 +4,7 @@ author: 梦随乡兮
 type: post
 date: 2022-10-14T13:57:31+00:00
 url: /bt-wordpress.html
-featured_image: https://imsxx.com/wp-content/uploads/314821.jpg
+featured_image: https://r2.imsxx.com/wp-content/uploads/314821.jpg
 views:
   - 1862
 like:
@@ -94,7 +94,7 @@ slug: "bt-wordpress"
 
 安装WordPress完成后，在面板左侧栏→软件商店，选择“已安装”，如下图：
 
-<img loading="lazy" decoding="async" class="aligncenter wp-image-456 size-full" src="https://imsxx.com/wp-content/uploads/2022/10/QQ截图20221014215645.png" alt="" width="740" height="741" /> 
+<img loading="lazy" decoding="async" class="aligncenter wp-image-456 size-full" src="https://r2.imsxx.com/wp-content/uploads/2022/10/QQ截图20221014215645.png" alt="" width="740" height="741" /> 
 
 ## <span class="ez-toc-section" id="%E6%8C%A8%E4%B8%AA%E4%BB%8B%E7%BB%8D"></span>挨个介绍<span class="ez-toc-section-end"></span>
 
@@ -104,7 +104,7 @@ slug: "bt-wordpress"
 
 Nginx的版本没有特别要求，在首次安装宝塔时会推荐安装某个版本，直接默认的就行。
 
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-461" src="https://imsxx.com/wp-content/uploads/2022/10/QQ截图20221014220314.png" alt="" width="654" height="608" /> 
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-461" src="https://r2.imsxx.com/wp-content/uploads/2022/10/QQ截图20221014220314.png" alt="" width="654" height="608" /> 
 
 Nginx的优化项并不多，调整它对WordPress搭建的网站在性能上的提升并不大，保持默认设置就行。
 
@@ -116,11 +116,11 @@ Nginx的优化项并不多，调整它对WordPress搭建的网站在性能上的
 
 在下面这张图中，我们可以看到“当前状态”，名词和各种缓存原理就不细写了。每一个命中率都对应在“性能调整”中有相应设置。
 
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-464" src="https://imsxx.com/wp-content/uploads/2022/10/QQ截图20221014221906.png" alt="" width="1308" height="611" /> 
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-464" src="https://r2.imsxx.com/wp-content/uploads/2022/10/QQ截图20221014221906.png" alt="" width="1308" height="611" /> 
 
 **<span style="color: #3366ff;">在‘性能调整’页的顶部有‘优化方案’，对应你的服务器内存大小进行选择即可。</span>**
 
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-465" src="https://imsxx.com/wp-content/uploads/2022/10/QQ截图20221014222108.png" alt="" width="377" height="154" /> 
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-465" src="https://r2.imsxx.com/wp-content/uploads/2022/10/QQ截图20221014222108.png" alt="" width="377" height="154" /> 
 
 当然，这个一键式的优化方案，可能并不适用你的的建站情况，所以在各项值上也可以进行一些手动微调。<span style="color: #ff0000;"><strong>以下所有调整都需要保存后重启数据库进行观察，如果不满足继续加。</strong></span>
 
@@ -139,11 +139,11 @@ Nginx的优化项并不多，调整它对WordPress搭建的网站在性能上的
 
 在最新的WordPress6.0中，官方已经推荐大家使用7.4版本了，服务器配置还不错的话，咱们也就直接听官方的用7.4。
 
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-466" src="https://imsxx.com/wp-content/uploads/2022/10/QQ截图20221014223940.png" alt="" width="654" height="607" /> 
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-466" src="https://r2.imsxx.com/wp-content/uploads/2022/10/QQ截图20221014223940.png" alt="" width="654" height="607" /> 
 
 在设置里，<span style="color: #3366ff;"><strong>“安装扩展”</strong></span>这块，只需要安装 <span style="color: #3366ff;"><strong>opcache</strong> </span>和 <span style="color: #3366ff;"><strong>Memcached</strong> </span>，其他的扩展都可以忽略掉。当然，安装redis扩展也行(后面会写原因)。
 
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-467" src="https://imsxx.com/wp-content/uploads/2022/10/QQ截图20221014224220.png" alt="" width="656" height="609" /> 
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-467" src="https://r2.imsxx.com/wp-content/uploads/2022/10/QQ截图20221014224220.png" alt="" width="656" height="609" /> 
 
 在<span style="color: #3366ff;"><strong>“配置修改”</strong></span>中，绝大多数设置都保持默认即可。
 
@@ -156,7 +156,7 @@ Nginx的优化项并不多，调整它对WordPress搭建的网站在性能上的
 
 其他上面没写出的设置对WordPress整体影响不大，都保持默认状态即可。
 
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-468" src="https://imsxx.com/wp-content/uploads/2022/10/QQ截图20221014233532.png" alt="" width="656" height="608" /> 
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-468" src="https://r2.imsxx.com/wp-content/uploads/2022/10/QQ截图20221014233532.png" alt="" width="656" height="608" /> 
 
 在<span style="color: #3366ff;"><strong>“性能调整”</strong></span>中，对应自己的服务器内存，来选择宝塔已经预设好的设置就行了。
 
@@ -176,7 +176,7 @@ Nginx的优化项并不多，调整它对WordPress搭建的网站在性能上的
 
 但如今建站服务器内存最次也有1G~2G，因此虚拟内存可以设置帮我们在突发状况下应急，但不建议过大。
 
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-470" src="https://imsxx.com/wp-content/uploads/2022/10/QQ截图20221014235502.png" alt="" width="704" height="288" /> 
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-470" src="https://r2.imsxx.com/wp-content/uploads/2022/10/QQ截图20221014235502.png" alt="" width="704" height="288" /> 
 
 * * *
 
@@ -184,7 +184,7 @@ Nginx的优化项并不多，调整它对WordPress搭建的网站在性能上的
 
 免费版防火墙，功能上自然不丰富。主要是用来做一些简单的拦截。
 
-<img loading="lazy" decoding="async" class="aligncenter wp-image-471" src="https://imsxx.com/wp-content/uploads/2022/10/QQ截图20221015000322.png" alt="" width="690" height="520" /> 
+<img loading="lazy" decoding="async" class="aligncenter wp-image-471" src="https://r2.imsxx.com/wp-content/uploads/2022/10/QQ截图20221015000322.png" alt="" width="690" height="520" /> 
 
 * * *
 

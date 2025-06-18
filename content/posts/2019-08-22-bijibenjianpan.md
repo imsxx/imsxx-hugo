@@ -4,7 +4,7 @@ author: 梦随乡兮
 type: post
 date: 2019-08-22T15:46:44+00:00
 url: /bijibenjianpan.html
-featured_image: https://imsxx.com/wp-content/uploads/2019/08/17e5e54d74ceb0.png
+featured_image: https://r2.imsxx.com/wp-content/uploads/2019/08/17e5e54d74ceb0.png
 zrz_credit_add:
   - 1
 views:
@@ -37,14 +37,14 @@ slug: "bijibenjianpan"
 
 *方法：点开开始菜单，直接输入cmd会出现命令提示符，右键它选择以管理员身份运行<figure id="117" class="content-img-box">
 
-<img decoding="async" id="B8C5A2AA" class="po-img-big" src="https://imsxx.com/wp-content/uploads/2019/08/17e5e54d74ceb0.png" alt="禁用笔记本自带键盘教程，百度出来没一个靠谱的。" /> <figcaption class="addDesn"></figcaption></figure> 
+<img decoding="async" id="B8C5A2AA" class="po-img-big" src="https://r2.imsxx.com/wp-content/uploads/2019/08/17e5e54d74ceb0.png" alt="禁用笔记本自带键盘教程，百度出来没一个靠谱的。" /> <figcaption class="addDesn"></figcaption></figure> 
 
 接下来将下面这段代码粘贴进去后回车，会收到成功提示：
 
 <pre class="ql-syntax" spellcheck="false"><span class="hljs-attribute">sc</span> config i8042prt start=disabled
 </pre><figure id="118" class="content-img-box">
 
-<img decoding="async" id="D14AD4C5" class="po-img-big" src="https://imsxx.com/wp-content/uploads/2019/08/198edb95853ae1.png" alt="禁用笔记本自带键盘教程，百度出来没一个靠谱的。" /> <figcaption class="addDesn"></figcaption></figure> 
+<img decoding="async" id="D14AD4C5" class="po-img-big" src="https://r2.imsxx.com/wp-content/uploads/2019/08/198edb95853ae1.png" alt="禁用笔记本自带键盘教程，百度出来没一个靠谱的。" /> <figcaption class="addDesn"></figcaption></figure> 
 
 然后重启电脑，就搞定了。
 

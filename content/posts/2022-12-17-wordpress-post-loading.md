@@ -4,7 +4,7 @@ author: 梦随乡兮
 type: post
 date: 2022-12-16T17:02:37+00:00
 url: /wordpress-post-loading.html
-featured_image: https://imsxx.com/wp-content/uploads/17d1bcd4325753d.jpg
+featured_image: https://r2.imsxx.com/wp-content/uploads/17d1bcd4325753d.jpg
 views:
   - 670
 suxing_ding:

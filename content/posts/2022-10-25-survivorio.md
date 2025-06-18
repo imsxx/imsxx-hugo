@@ -4,7 +4,7 @@ author: 梦随乡兮
 type: post
 date: 2022-10-25T12:40:50+00:00
 url: /survivorio.html
-featured_image: https://imsxx.com/wp-content/uploads/2022102502365116.png
+featured_image: https://r2.imsxx.com/wp-content/uploads/2022102502365116.png
 hide_content:
   - close
 views:
@@ -23,7 +23,7 @@ tags:
 
 slug: "survivorio"
 ---
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-609" src="https://imsxx.com/wp-content/uploads/2022102410295468.jpg" alt="" width="1200" height="628" /> 《弹壳特攻队/哒哒特攻/Survivor!.io》是由海彼网络出品，创意‘借鉴’了《吸血鬼幸存者》。游戏的热度非常高，整个9月都呆在国区App Store免费榜前十，畅销榜30名以内。在国外，位列韩国9月游戏畅销榜第6位，美国iOS市场月平均位置在游戏畅销榜30位上下，日本iOS市场也是在Top50中。 
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-609" src="https://r2.imsxx.com/wp-content/uploads/2022102410295468.jpg" alt="" width="1200" height="628" /> 《弹壳特攻队/哒哒特攻/Survivor!.io》是由海彼网络出品，创意‘借鉴’了《吸血鬼幸存者》。游戏的热度非常高，整个9月都呆在国区App Store免费榜前十，畅销榜30名以内。在国外，位列韩国9月游戏畅销榜第6位，美国iOS市场月平均位置在游戏畅销榜30位上下，日本iOS市场也是在Top50中。 
 
   * **<span style="color: #008000;">游戏时长：60天+</span>**
   * **<span style="color: #008000;">版本：国际服</span>**
@@ -31,31 +31,31 @@ slug: "survivorio"
 <div id='gallery-5' class='gallery galleryid-589 gallery-columns-5 gallery-size-full'>
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <img loading="lazy" decoding="async" width="608" height="1080" src="https://imsxx.com/wp-content/uploads/a30db4a9fff0ea6.jpg" class="attachment-full size-full" alt="" />
+      <img loading="lazy" decoding="async" width="608" height="1080" src="https://r2.imsxx.com/wp-content/uploads/a30db4a9fff0ea6.jpg" class="attachment-full size-full" alt="" />
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <img loading="lazy" decoding="async" width="608" height="1080" src="https://imsxx.com/wp-content/uploads/cd4b01c44971f6a.jpg" class="attachment-full size-full" alt="" />
+      <img loading="lazy" decoding="async" width="608" height="1080" src="https://r2.imsxx.com/wp-content/uploads/cd4b01c44971f6a.jpg" class="attachment-full size-full" alt="" />
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <img loading="lazy" decoding="async" width="608" height="1080" src="https://imsxx.com/wp-content/uploads/88a23dfd8d7b6c2.jpg" class="attachment-full size-full" alt="" />
+      <img loading="lazy" decoding="async" width="608" height="1080" src="https://r2.imsxx.com/wp-content/uploads/88a23dfd8d7b6c2.jpg" class="attachment-full size-full" alt="" />
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <img loading="lazy" decoding="async" width="608" height="1080" src="https://imsxx.com/wp-content/uploads/56914507432962e.jpg" class="attachment-full size-full" alt="" />
+      <img loading="lazy" decoding="async" width="608" height="1080" src="https://r2.imsxx.com/wp-content/uploads/56914507432962e.jpg" class="attachment-full size-full" alt="" />
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <img loading="lazy" decoding="async" width="608" height="1080" src="https://imsxx.com/wp-content/uploads/e7f762443568acb.jpg" class="attachment-full size-full" alt="" />
+      <img loading="lazy" decoding="async" width="608" height="1080" src="https://r2.imsxx.com/wp-content/uploads/e7f762443568acb.jpg" class="attachment-full size-full" alt="" />
     </dt>
   </dl>
   
@@ -189,7 +189,7 @@ slug: "survivorio"
 
 ### <span class="ez-toc-section" id="Roguelike"></span>Roguelike<span class="ez-toc-section-end"></span>
 
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-669" src="https://imsxx.com/wp-content/uploads/6ac579110c536f7.png" alt="" width="420" height="369" /> 
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-669" src="https://r2.imsxx.com/wp-content/uploads/6ac579110c536f7.png" alt="" width="420" height="369" /> 
 
   * 【技能】游戏中的技能设计为[每次战斗中通过打怪提升局内等级，局内升级时对随机出现的技能进行3选1] 
       * 主动技能：6个。其中一个被主武器技能占用无法在局内选择。
@@ -203,20 +203,20 @@ slug: "survivorio"
 
 ### <span class="ez-toc-section" id="%E5%89%B2%E8%8D%89%E7%94%9F%E5%AD%98"></span>割草生存<span class="ez-toc-section-end"></span>
 
-<img loading="lazy" decoding="async" class="aligncenter wp-image-670" src="https://imsxx.com/wp-content/uploads/fb313488c791747.png" alt="" width="330" height="608" /> 
+<img loading="lazy" decoding="async" class="aligncenter wp-image-670" src="https://r2.imsxx.com/wp-content/uploads/fb313488c791747.png" alt="" width="330" height="608" /> 
 
   * 【怪物】怪物会从地图四面八方刷出朝玩家涌来，小怪几乎都可以实现割草的爽快感。
   * 【关卡】每个关卡有固定时间，在时间到达前生存下来即为胜利。
 
 ### <span class="ez-toc-section" id="_%E6%94%BE%E7%BD%AE%E6%8C%82%E6%9C%BA"></span> 放置挂机<span class="ez-toc-section-end"></span>
 
-**<span style="color: #ff0000;"><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-671" src="https://imsxx.com/wp-content/uploads/77298e0e3774153.png" alt="" width="418" height="885" /></span>** 打通章节关卡可提升巡逻收益，巡逻收益产出用于强化角色各项能力。 
+**<span style="color: #ff0000;"><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-671" src="https://r2.imsxx.com/wp-content/uploads/77298e0e3774153.png" alt="" width="418" height="885" /></span>** 打通章节关卡可提升巡逻收益，巡逻收益产出用于强化角色各项能力。 
 
 * * *
 
 ## <span class="ez-toc-section" id="%E6%B8%B8%E6%88%8F%E7%9B%AE%E6%A0%87"></span>游戏目标<span class="ez-toc-section-end"></span> 《弹壳特攻队》是一个
 
-<span style="color: #008000;"><strong>无社交</strong></span>，主打**<span style="color: #ff6600;">Roguelike</span>**、<span style="color: #ff6600;"><strong>割草</strong></span>、<span style="color: #ff6600;"><strong>挂机</strong></span>的‘小游戏’。整体体验上比较平缓线性，由于没有社交系统也无排行榜等成就外显，少了很多可以比拼的点。玩家培养和消费的驱动力，主要还是来自于对玩法本身的认可，即——<span style="color: #ff0000;"><strong>通过随机技能搭配，进行爽快的割草，达成娱乐解压的目的。</strong></span><img loading="lazy" decoding="async" class="aligncenter wp-image-614" src="https://imsxx.com/wp-content/uploads/2022102411500134.png" alt="" width="500" height="357" /> 
+<span style="color: #008000;"><strong>无社交</strong></span>，主打**<span style="color: #ff6600;">Roguelike</span>**、<span style="color: #ff6600;"><strong>割草</strong></span>、<span style="color: #ff6600;"><strong>挂机</strong></span>的‘小游戏’。整体体验上比较平缓线性，由于没有社交系统也无排行榜等成就外显，少了很多可以比拼的点。玩家培养和消费的驱动力，主要还是来自于对玩法本身的认可，即——<span style="color: #ff0000;"><strong>通过随机技能搭配，进行爽快的割草，达成娱乐解压的目的。</strong></span><img loading="lazy" decoding="async" class="aligncenter wp-image-614" src="https://r2.imsxx.com/wp-content/uploads/2022102411500134.png" alt="" width="500" height="357" /> 
 
 * * *
 
@@ -224,14 +224,14 @@ slug: "survivorio"
 
 ### <span class="ez-toc-section" id="%E7%AB%A0%E8%8A%82%E5%85%B3%E5%8D%A1"></span>章节关卡<span class="ez-toc-section-end"></span>
 
-**<span style="color: #ff0000;"><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-674" src="https://imsxx.com/wp-content/uploads/1b546b8d7cead8b.png" alt="" width="418" height="884" /></span>** 游戏依靠主界面的章节关卡来引导玩家参与核心玩法，对于一款小游戏，相比冗长的剧情和新手引导而言，建号进入游戏就能直接打一关是最直白的表达方式。快速直白的进入一局战斗能够让玩家对游戏的主体玩法有直观认知。初始关卡能够让玩家顺畅的体验到Roguelike、割草、生存的游戏主题。同时，玩家在游戏中的所有培养，都将在章节关卡中进行检验反馈。 同时关卡并非无限，在每次版本更新时会解锁新关卡，涉及到添加新地图。使得玩家对后期挑战有周期性的期待。 <span style="color: #3366ff;"><strong>设计目的</strong></span> 
+**<span style="color: #ff0000;"><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-674" src="https://r2.imsxx.com/wp-content/uploads/1b546b8d7cead8b.png" alt="" width="418" height="884" /></span>** 游戏依靠主界面的章节关卡来引导玩家参与核心玩法，对于一款小游戏，相比冗长的剧情和新手引导而言，建号进入游戏就能直接打一关是最直白的表达方式。快速直白的进入一局战斗能够让玩家对游戏的主体玩法有直观认知。初始关卡能够让玩家顺畅的体验到Roguelike、割草、生存的游戏主题。同时，玩家在游戏中的所有培养，都将在章节关卡中进行检验反馈。 同时关卡并非无限，在每次版本更新时会解锁新关卡，涉及到添加新地图。使得玩家对后期挑战有周期性的期待。 <span style="color: #3366ff;"><strong>设计目的</strong></span> 
 
   * 【引导玩家成长】通过打通关卡来解锁功能，使得玩家更容易理解各玩法功能。解锁的玩法赋予玩家更多的培养方式，助力玩家打通更多关卡。
   * 【控制游戏节奏】关卡涉及到地图大小、怪物数值等，利用这些元素来综合控制游戏难度，结合不同培养系统的解锁关卡使玩家不至于快速通关。
 
 ### <span class="ez-toc-section" id="%E6%8C%91%E6%88%98%E5%85%B3%E5%8D%A1"></span>挑战关卡<span class="ez-toc-section-end"></span>
 
-**<span style="color: #ff0000;"><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-673" src="https://imsxx.com/wp-content/uploads/34f82394c33a80b.png" alt="" width="418" height="885" /></span>** 每当通过「章节关卡」后，即可解锁对应的章节挑战。地图、怪物、时间都和章节关卡一样。但分了3个难度，不同难度会有不同的战斗变化，比如： 
+**<span style="color: #ff0000;"><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-673" src="https://r2.imsxx.com/wp-content/uploads/34f82394c33a80b.png" alt="" width="418" height="885" /></span>** 每当通过「章节关卡」后，即可解锁对应的章节挑战。地图、怪物、时间都和章节关卡一样。但分了3个难度，不同难度会有不同的战斗变化，比如： 
 
   * 狂暴：怪物获得加速效果(Ps:攻击速度和移动速度)
   * 危机效应：战斗中出现道具和生物质能概率降低(Ps:减少磁铁、炸弹、食物的出现) 
@@ -248,7 +248,7 @@ slug: "survivorio"
 
 ### <span class="ez-toc-section" id="%E6%AF%8F%E6%97%A5%E6%8C%91%E6%88%98"></span>每日挑战<span class="ez-toc-section-end"></span>
 
-**<span style="color: #ff0000;"><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-672" src="https://imsxx.com/wp-content/uploads/bcb89ed5062f621.png" alt="" width="420" height="884" /></span>** 该玩法是**科技配件(副装)**的日常产出方式，整个玩法设计相当紧凑。将单局战斗压缩到了6分钟，每2分钟固定刷新BOSS。相比章节挑战而言，每日挑战会随机生成1个BUFF和一个DeBUFF。通过不同的BUFF进一步拓展作为‘小游戏’的玩法多样性： 
+**<span style="color: #ff0000;"><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-672" src="https://r2.imsxx.com/wp-content/uploads/bcb89ed5062f621.png" alt="" width="420" height="884" /></span>** 该玩法是**科技配件(副装)**的日常产出方式，整个玩法设计相当紧凑。将单局战斗压缩到了6分钟，每2分钟固定刷新BOSS。相比章节挑战而言，每日挑战会随机生成1个BUFF和一个DeBUFF。通过不同的BUFF进一步拓展作为‘小游戏’的玩法多样性： 
 
   * 【BUFF】 
       * **「将装备武器视作红色，若已是红色则属性提升50%」**游戏的装备升品为白、绿、蓝、紫、黄、红。红装的升级非常困难，该BUFF可以让玩家率先体验到不同武器在升红后的实际表现/体验感。
@@ -267,7 +267,7 @@ slug: "survivorio"
 
 ### <span class="ez-toc-section" id="%E9%BB%84%E9%87%91%E7%9F%BF%E6%B4%9E"></span>黄金矿洞<span class="ez-toc-section-end"></span>
 
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-675" src="https://imsxx.com/wp-content/uploads/93be61d3819e013.png" alt="" width="410" height="501" /> 该玩法是‘每日活动’中的一个，目前每日活动也只有这么一个活动。难度简单，只产出金币，金币用于强化装备和升级天赋。该玩法3分钟一次，每天限制2次。无法额外购买。 <span style="color: #3366ff;"><strong>设计目的</strong></span> 
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-675" src="https://r2.imsxx.com/wp-content/uploads/93be61d3819e013.png" alt="" width="410" height="501" /> 该玩法是‘每日活动’中的一个，目前每日活动也只有这么一个活动。难度简单，只产出金币，金币用于强化装备和升级天赋。该玩法3分钟一次，每天限制2次。无法额外购买。 <span style="color: #3366ff;"><strong>设计目的</strong></span> 
 
   * 【金币投放】金币的稳定产出途径。
 
@@ -299,14 +299,14 @@ slug: "survivorio"
 
 ### <span class="ez-toc-section" id="%E6%88%98%E6%96%97%E4%B8%AD%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F"></span>战斗中发生了什么？<span class="ez-toc-section-end"></span>
 
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-619" src="https://imsxx.com/wp-content/uploads/2022102414495053.png" alt="" width="793" height="883" /> 
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-619" src="https://r2.imsxx.com/wp-content/uploads/2022102414495053.png" alt="" width="793" height="883" /> 
 
 ### <span class="ez-toc-section" id="%E5%B1%80%E5%86%85%E6%8A%80%E8%83%BD%E7%B3%BB%E7%BB%9F"></span>局内技能系统<span class="ez-toc-section-end"></span> 游戏内公有两套技能系统： 
 
   * 装备技能：固定在装备上的技能，装备品质越高解锁技能越丰富，武器带技能进战斗(因此主动技能实际只能选5个)。
   * 局内技能：在战斗中随机刷出的技能，13个主动和13个被动，单局中主动和被动分别可以选择6个，根据不同搭配使主动技能突破，获得更强效果。
 
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-635" src="https://imsxx.com/wp-content/uploads/2022102419144628.png" alt="" width="404" height="612" /> <span style="color: #3366ff;"><strong>设计目的</strong></span> 
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-635" src="https://r2.imsxx.com/wp-content/uploads/2022102419144628.png" alt="" width="404" height="612" /> <span style="color: #3366ff;"><strong>设计目的</strong></span> 
 
   * 【展现Roguelike】在游戏过程中，局内技能的选择非常重要。不同技能可以搭配出非常多流派种类，使得游戏不是单纯的数值推图，极大丰富了玩家的游戏体验。
   * 【引导玩家攻略】部分关卡怪物BOSS需要强化某些指定技能才容易击杀。顺延流派的开发使玩家在游戏之外的社区论坛产生话题。
@@ -324,7 +324,7 @@ slug: "survivorio"
 
 ### <span class="ez-toc-section" id="%E5%A4%A9%E8%B5%8B%E5%9F%B9%E5%85%BB"></span>天赋培养<span class="ez-toc-section-end"></span> 挂靠在角色等级下的培养，即相比传统游戏升级时
 
-<span style="color: #3366ff;"><strong>自动增加</strong></span>角色属性。弹壳将自动增加这个过程变成了<span style="color: #ff00ff;"><strong>手动增加</strong></span>。玩家需要花费金币来点亮解锁的天赋。**<span style="color: #ff6600;">小天赋仅对基础数值有提升，提升非常有限。而大天赋则能大幅强化角色，解锁各种特性(濒死无敌、局内掉落道具)，提升稀有属性(暴击率、神圣伤害、攻击间隔减少等)。</span>**<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-676" src="https://imsxx.com/wp-content/uploads/aeab48b43f7ccb3.png" alt="" width="418" height="884" /> 在整个游戏过程中仅初期几个天赋提升明显，后期天赋在战斗体验中提升并没有明显提升，甚至难以感知变化。 <span style="color: #3366ff;"><strong>小天赋 </strong></span>每级解锁 
+<span style="color: #3366ff;"><strong>自动增加</strong></span>角色属性。弹壳将自动增加这个过程变成了<span style="color: #ff00ff;"><strong>手动增加</strong></span>。玩家需要花费金币来点亮解锁的天赋。**<span style="color: #ff6600;">小天赋仅对基础数值有提升，提升非常有限。而大天赋则能大幅强化角色，解锁各种特性(濒死无敌、局内掉落道具)，提升稀有属性(暴击率、神圣伤害、攻击间隔减少等)。</span>**<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-676" src="https://r2.imsxx.com/wp-content/uploads/aeab48b43f7ccb3.png" alt="" width="418" height="884" /> 在整个游戏过程中仅初期几个天赋提升明显，后期天赋在战斗体验中提升并没有明显提升，甚至难以感知变化。 <span style="color: #3366ff;"><strong>小天赋 </strong></span>每级解锁 
 
   * 【提升消耗】 
       * 金币
@@ -356,7 +356,7 @@ slug: "survivorio"
 
 ### <span class="ez-toc-section" id="%E8%A3%85%E5%A4%87%E5%9F%B9%E5%85%BB"></span>装备培养<span class="ez-toc-section-end"></span> 装备是
 
-<span style="color: #ff00ff;"><strong>提升角色自身属性</strong></span>的主要方式，装备为6种，只提升攻击和血量这两个属性，不过，<span style="color: #ff0000;"><strong>游戏内所有装备都具有装备品质技能</strong></span>，更高品质即可解锁丰富的装备技能。<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-677" src="https://imsxx.com/wp-content/uploads/1fad043fa9e3b14.png" alt="" width="418" height="882" /> <span style="color: #3366ff;"><strong>装备部件</strong></span> 
+<span style="color: #ff00ff;"><strong>提升角色自身属性</strong></span>的主要方式，装备为6种，只提升攻击和血量这两个属性，不过，<span style="color: #ff0000;"><strong>游戏内所有装备都具有装备品质技能</strong></span>，更高品质即可解锁丰富的装备技能。<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-677" src="https://r2.imsxx.com/wp-content/uploads/1fad043fa9e3b14.png" alt="" width="418" height="882" /> <span style="color: #3366ff;"><strong>装备部件</strong></span> 
 
 <table style="border-collapse: collapse; width: 330px; height: 76px;" border="0" width="274" cellspacing="0" cellpadding="0">
   <tr style="height: 13.50pt;">
@@ -499,13 +499,13 @@ slug: "survivorio"
 <div id='gallery-6' class='gallery galleryid-589 gallery-columns-2 gallery-size-full'>
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <img loading="lazy" decoding="async" width="388" height="505" src="https://imsxx.com/wp-content/uploads/b94c7546c97f233.png" class="attachment-full size-full" alt="" />
+      <img loading="lazy" decoding="async" width="388" height="505" src="https://r2.imsxx.com/wp-content/uploads/b94c7546c97f233.png" class="attachment-full size-full" alt="" />
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <img loading="lazy" decoding="async" width="388" height="505" src="https://imsxx.com/wp-content/uploads/f85a28ebe407495.png" class="attachment-full size-full" alt="" />
+      <img loading="lazy" decoding="async" width="388" height="505" src="https://r2.imsxx.com/wp-content/uploads/f85a28ebe407495.png" class="attachment-full size-full" alt="" />
     </dt>
   </dl>
   
@@ -529,7 +529,7 @@ slug: "survivorio"
 
 ### <span class="ez-toc-section" id="%E5%89%AF%E8%A3%85%E5%9F%B9%E5%85%BB"></span>副装培养<span class="ez-toc-section-end"></span> 在9月版本中上线了「科技配件」功能，配套上线了产出玩法「每日挑战」，该功能对战斗内的技能进行加强，是
 
-<span style="color: #ff00ff;"><strong>提升战斗中主动技能强度</strong></span>的唯一方式。战斗中的主动技能原本就有自己的效果，配合副装可以进一步强化该效果。<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-680" src="https://imsxx.com/wp-content/uploads/4c91991179736ff.png" alt="" width="418" height="884" /> 但由于大前期的关卡中技能原本效果已足够打通所有关卡，因此该功能仅限于锦上添花的地位，为玩家后期培养增加新线路。 
+<span style="color: #ff00ff;"><strong>提升战斗中主动技能强度</strong></span>的唯一方式。战斗中的主动技能原本就有自己的效果，配合副装可以进一步强化该效果。<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-680" src="https://r2.imsxx.com/wp-content/uploads/4c91991179736ff.png" alt="" width="418" height="884" /> 但由于大前期的关卡中技能原本效果已足够打通所有关卡，因此该功能仅限于锦上添花的地位，为玩家后期培养增加新线路。 
 
   * 【无人机】原始是规律扫射角色周围的怪物，击中怪物产生爆炸。<span style="color: #800080;">配件紫色：攻击方式变为自动索敌</span>。<span style="color: #ff0000;">红色：爆炸范围翻倍</span>。
   * 【雷电发射器】原始是周期性降下数条闪电击中随机敌人并产生电波伤害。<span style="color: #800080;">配件紫色：闪电数量+2</span>。<span style="color: #ff0000;">红色：电波扩散翻倍</span>。
@@ -540,7 +540,7 @@ slug: "survivorio"
 
 ## <span class="ez-toc-section" id="%E7%BB%8F%E6%B5%8E%E7%B3%BB%E7%BB%9F"></span>经济系统<span class="ez-toc-section-end"></span> 由于是小品游戏，玩法代币道具都比较少，经济循环也比较简单： 
 
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-653" src="https://imsxx.com/wp-content/uploads/e08c06cc522da69.png" alt="" width="466" height="345" /> 
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-653" src="https://r2.imsxx.com/wp-content/uploads/e08c06cc522da69.png" alt="" width="466" height="345" /> 
 
 ### <span class="ez-toc-section" id="%E4%BA%A7%E6%B6%88%E4%BD%93%E7%B3%BB"></span>产消体系<span class="ez-toc-section-end"></span> 整体设计层面，产出都围绕着「装备」展开。 
 
@@ -684,7 +684,7 @@ slug: "survivorio"
   </div>
 </div>
 
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-685" src="https://imsxx.com/wp-content/uploads/eb5237e4f1961ea.png" alt="" width="416" height="415" /> 
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-685" src="https://r2.imsxx.com/wp-content/uploads/eb5237e4f1961ea.png" alt="" width="416" height="415" /> 
 
 ### <span class="ez-toc-section" id="%E4%BB%98%E8%B4%B9%E8%AE%BE%E8%AE%A1"></span>付费设计<span class="ez-toc-section-end"></span>
 
@@ -693,26 +693,26 @@ slug: "survivorio"
 <div id='gallery-7' class='gallery galleryid-589 gallery-columns-3 gallery-size-full'>
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <img loading="lazy" decoding="async" width="417" height="514" src="https://imsxx.com/wp-content/uploads/0031e4cadaaaf0b.png" class="attachment-full size-full" alt="" />
+      <img loading="lazy" decoding="async" width="417" height="514" src="https://r2.imsxx.com/wp-content/uploads/0031e4cadaaaf0b.png" class="attachment-full size-full" alt="" />
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <img loading="lazy" decoding="async" width="418" height="310" src="https://imsxx.com/wp-content/uploads/ee5cbc9591630ff.png" class="attachment-full size-full" alt="" />
+      <img loading="lazy" decoding="async" width="418" height="310" src="https://r2.imsxx.com/wp-content/uploads/ee5cbc9591630ff.png" class="attachment-full size-full" alt="" />
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <img loading="lazy" decoding="async" width="418" height="308" src="https://imsxx.com/wp-content/uploads/1a82a25e543ba99.png" class="attachment-full size-full" alt="" />
+      <img loading="lazy" decoding="async" width="418" height="308" src="https://r2.imsxx.com/wp-content/uploads/1a82a25e543ba99.png" class="attachment-full size-full" alt="" />
     </dt>
   </dl>
   
   <br style="clear: both" />
 </div>
 
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-658" src="https://imsxx.com/wp-content/uploads/9847f1759c1295b.png" alt="" width="724" height="73" /> 驱动玩家付费开箱的原因除了装备肉眼可见的强度提升外，还有「**不同装备上各种天马行空的技能表现」**。 游戏把「科技配件」的主要付费产出放进了日/周/月礼包中，配件从紫色品质开始提供局内技能变化，日常免费的产出提升比自身装备更为困难。这是大R玩家的付费目标，同时也引导玩家将钻石花在抽装备上。相比把有限钻石摊到多个消耗中，这样的设计使得玩家实力提升更为明显。 <span style="color: #3366ff;"><strong>付费阶梯</strong></span> 
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-658" src="https://r2.imsxx.com/wp-content/uploads/9847f1759c1295b.png" alt="" width="724" height="73" /> 驱动玩家付费开箱的原因除了装备肉眼可见的强度提升外，还有「**不同装备上各种天马行空的技能表现」**。 游戏把「科技配件」的主要付费产出放进了日/周/月礼包中，配件从紫色品质开始提供局内技能变化，日常免费的产出提升比自身装备更为困难。这是大R玩家的付费目标，同时也引导玩家将钻石花在抽装备上。相比把有限钻石摊到多个消耗中，这样的设计使得玩家实力提升更为明显。 <span style="color: #3366ff;"><strong>付费阶梯</strong></span> 
 
   1. 【双月卡】由于度过新手期后钻石的产出匮乏，使得玩家会考虑选择双月卡，双月卡产出15200钻=5.6个十连，而每50抽保底1S紫的设计，使得月卡玩家每月保底能有一件强力装备。
   2. 【章节关卡礼包】游戏中最划算的进阶类充值方式。每个关卡对应一个礼包，限购一次。获得大量钻石+金币+强化图纸+宝箱钥匙，等同于每个关卡都把游戏中的核心资源拿出来卖一次，当玩家出现“十连差点钻”“强化缺图纸”这些情况时，该付费点就是首选的资源补充方式。当然，该礼包包含的道具数量和付费价格也会逐渐递增。
@@ -720,13 +720,13 @@ slug: "survivorio"
 <div id='gallery-8' class='gallery galleryid-589 gallery-columns-2 gallery-size-full'>
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <img loading="lazy" decoding="async" width="418" height="598" src="https://imsxx.com/wp-content/uploads/abb5a97114e7078.png" class="attachment-full size-full" alt="" />
+      <img loading="lazy" decoding="async" width="418" height="598" src="https://r2.imsxx.com/wp-content/uploads/abb5a97114e7078.png" class="attachment-full size-full" alt="" />
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <img loading="lazy" decoding="async" width="419" height="252" src="https://imsxx.com/wp-content/uploads/4e532d03921c1ed.png" class="attachment-full size-full" alt="" />
+      <img loading="lazy" decoding="async" width="419" height="252" src="https://r2.imsxx.com/wp-content/uploads/4e532d03921c1ed.png" class="attachment-full size-full" alt="" />
     </dt>
   </dl>
   
@@ -739,7 +739,7 @@ slug: "survivorio"
   * 中部玩家：月卡党，会思考装备和技能搭配，在相对宽裕的资源中打通更高关卡
   * 底部玩家：休闲党，哪有红点领哪里，随便点点就下线
 
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-687" src="https://imsxx.com/wp-content/uploads/a18e91ab7010ea6.png" alt="" width="419" height="709" /> 
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-687" src="https://r2.imsxx.com/wp-content/uploads/a18e91ab7010ea6.png" alt="" width="419" height="709" /> 
 
 <div class="su-spoiler su-spoiler-style-fancy su-spoiler-icon-plus su-spoiler-closed" data-scroll-offset="0" data-anchor-in-url="no">
   <div class="su-spoiler-title" tabindex="0" role="button">
@@ -857,7 +857,7 @@ slug: "survivorio"
 <div id='gallery-9' class='gallery galleryid-589 gallery-columns-2 gallery-size-full'>
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <img loading="lazy" decoding="async" width="1200" height="628" src="https://imsxx.com/wp-content/uploads/2022102502365395.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-9-644" />
+      <img loading="lazy" decoding="async" width="1200" height="628" src="https://r2.imsxx.com/wp-content/uploads/2022102502365395.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-9-644" />
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-9-644'>
@@ -867,7 +867,7 @@ slug: "survivorio"
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <img loading="lazy" decoding="async" width="1200" height="600" src="https://imsxx.com/wp-content/uploads/2022102502365418.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-9-645" />
+      <img loading="lazy" decoding="async" width="1200" height="600" src="https://r2.imsxx.com/wp-content/uploads/2022102502365418.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-9-645" />
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-9-645'>
@@ -881,7 +881,7 @@ slug: "survivorio"
 <div id='gallery-10' class='gallery galleryid-589 gallery-columns-3 gallery-size-full'>
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <img loading="lazy" decoding="async" width="900" height="900" src="https://imsxx.com/wp-content/uploads/2022102502364469.png" class="attachment-full size-full" alt="" aria-describedby="gallery-10-638" />
+      <img loading="lazy" decoding="async" width="900" height="900" src="https://r2.imsxx.com/wp-content/uploads/2022102502364469.png" class="attachment-full size-full" alt="" aria-describedby="gallery-10-638" />
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-10-638'>
@@ -891,7 +891,7 @@ slug: "survivorio"
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <img loading="lazy" decoding="async" width="900" height="900" src="https://imsxx.com/wp-content/uploads/2022102502364641.png" class="attachment-full size-full" alt="" aria-describedby="gallery-10-639" />
+      <img loading="lazy" decoding="async" width="900" height="900" src="https://r2.imsxx.com/wp-content/uploads/2022102502364641.png" class="attachment-full size-full" alt="" aria-describedby="gallery-10-639" />
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-10-639'>
@@ -901,7 +901,7 @@ slug: "survivorio"
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <img loading="lazy" decoding="async" width="900" height="900" src="https://imsxx.com/wp-content/uploads/2022102502364734.png" class="attachment-full size-full" alt="" aria-describedby="gallery-10-640" />
+      <img loading="lazy" decoding="async" width="900" height="900" src="https://r2.imsxx.com/wp-content/uploads/2022102502364734.png" class="attachment-full size-full" alt="" aria-describedby="gallery-10-640" />
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-10-640'>
@@ -913,7 +913,7 @@ slug: "survivorio"
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <img loading="lazy" decoding="async" width="900" height="900" src="https://imsxx.com/wp-content/uploads/2022102502364923.png" class="attachment-full size-full" alt="" aria-describedby="gallery-10-641" />
+      <img loading="lazy" decoding="async" width="900" height="900" src="https://r2.imsxx.com/wp-content/uploads/2022102502364923.png" class="attachment-full size-full" alt="" aria-describedby="gallery-10-641" />
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-10-641'>
@@ -923,7 +923,7 @@ slug: "survivorio"
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <img loading="lazy" decoding="async" width="900" height="900" src="https://imsxx.com/wp-content/uploads/2022102502365116.png" class="attachment-full size-full" alt="" aria-describedby="gallery-10-642" />
+      <img loading="lazy" decoding="async" width="900" height="900" src="https://r2.imsxx.com/wp-content/uploads/2022102502365116.png" class="attachment-full size-full" alt="" aria-describedby="gallery-10-642" />
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-10-642'>
@@ -933,7 +933,7 @@ slug: "survivorio"
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <img loading="lazy" decoding="async" width="680" height="680" src="https://imsxx.com/wp-content/uploads/2022102502365316.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-10-643" />
+      <img loading="lazy" decoding="async" width="680" height="680" src="https://r2.imsxx.com/wp-content/uploads/2022102502365316.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-10-643" />
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-10-643'>

@@ -4,7 +4,7 @@ author: 梦随乡兮
 type: post
 date: 2024-02-29T02:50:01+00:00
 url: /bash-curl-command-not-found.html
-featured_image: https://imsxx.com/wp-content/uploads/20240229024911370002.jpg
+featured_image: https://r2.imsxx.com/wp-content/uploads/20240229024911370002.jpg
 views:
   - 1030
 categories:
@@ -18,7 +18,7 @@ tags:
 slug: "bash-curl-command-not-found"
 ---
 <div class="wp-block-image">
-  <figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="1280" height="672" src="https://imsxx.com/wp-content/uploads/20240229024911370002.jpg" alt="" class="wp-image-809" /></figure>
+  <figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="1280" height="672" src="https://r2.imsxx.com/wp-content/uploads/20240229024911370002.jpg" alt="" class="wp-image-809" /></figure>
 </div>
 
 有些VPS的debian默认未安装sudo，导致我们在使用curl命令的时候提示`-bash: curl: command not found`，解决办法如下：

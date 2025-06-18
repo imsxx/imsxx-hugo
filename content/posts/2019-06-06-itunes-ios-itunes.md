@@ -4,7 +4,7 @@ author: 梦随乡兮
 type: post
 date: 2019-06-05T17:12:06+00:00
 url: /itunes-ios-itunes.html
-featured_image: https://imsxx.com/wp-content/uploads/2019/06/Snipaste_2019-06-06_01-11-35-240x180.jpg
+featured_image: https://r2.imsxx.com/wp-content/uploads/2019/06/Snipaste_2019-06-06_01-11-35-240x180.jpg
 views:
   - 4115
 like:
@@ -22,7 +22,7 @@ tags:
 
 slug: "itunes-ios-itunes"
 ---
-[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-50" src="https://imsxx.com/wp-content/uploads/2019/06/Snipaste_2019-06-06_01-11-35.jpg" alt="" width="1157" height="572" />][1]
+[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-50" src="https://r2.imsxx.com/wp-content/uploads/2019/06/Snipaste_2019-06-06_01-11-35.jpg" alt="" width="1157" height="572" />][1]
 
 昨天升级了最新的iOS13开发者预览版看了一下新版本的一些东西。
 
@@ -44,7 +44,7 @@ slug: "itunes-ios-itunes"
 
 打开磁盘一看，嚯，还有1M可用了。这是因为iTunes的恢复机制不是直接将备份导入手机，而是会在备份目录下解压所谓的备份内容，不知道是不是因为备份时加密的缘故，这是什么神仙设计？！！！
 
-[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-47" src="https://imsxx.com/wp-content/uploads/2019/06/Snipaste_2019-06-06_00-46-19.jpg" alt="" width="808" height="161" />][2]
+[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-47" src="https://r2.imsxx.com/wp-content/uploads/2019/06/Snipaste_2019-06-06_00-46-19.jpg" alt="" width="808" height="161" />][2]
 
 而且解压出来的内容还不会自动删掉，如果你不手动清理，它就一直都在那占用磁盘，也是服了。并且由于win10的缘故，itunes默认就是安装在系统所在的盘符里面，一般我们在给磁盘分区的时候系统盘本身就不会分到太多的磁盘空间，于是悲剧就发生了。。。
 
@@ -62,7 +62,7 @@ slug: "itunes-ios-itunes"
 
 一旦我们在这个文件夹路径中找到了真实的备份文件，我们可以右键属性看到它实际有多大的容量。
 
-[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-48" src="https://imsxx.com/wp-content/uploads/2019/06/Snipaste_2019-06-06_01-05-05.jpg" alt="" width="419" height="474" />][3]
+[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-48" src="https://r2.imsxx.com/wp-content/uploads/2019/06/Snipaste_2019-06-06_01-05-05.jpg" alt="" width="419" height="474" />][3]
 
 我们可以通过把其他富余容量的盘符通过无损分区软件给到这边，空余空间应该大于备份文件总量的10G就好。例如图上我的备份文件占用51G，那么我就要让itunes的所在安装盘符至少空出61G的可用空间。这样，我们再来恢复就绝对不会出现磁盘满了的问题。
 
@@ -76,10 +76,10 @@ iOS开发者预览版，真的是给开发者玩的。一般玩家做日常使�
 
 路径：C:\Users\你的电脑用户名\Apple\MobileSync\Backup下
 
-[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-49" src="https://imsxx.com/wp-content/uploads/2019/06/Snipaste_2019-06-06_01-08-38.jpg" alt="" width="385" height="137" />][4]
+[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-49" src="https://r2.imsxx.com/wp-content/uploads/2019/06/Snipaste_2019-06-06_01-08-38.jpg" alt="" width="385" height="137" />][4]
 
- [1]: https://imsxx.com/wp-content/uploads/2019/06/Snipaste_2019-06-06_01-11-35.jpg
- [2]: https://imsxx.com/wp-content/uploads/2019/06/Snipaste_2019-06-06_00-46-19.jpg
- [3]: https://imsxx.com/wp-content/uploads/2019/06/Snipaste_2019-06-06_01-05-05.jpg
- [4]: https://imsxx.com/wp-content/uploads/2019/06/Snipaste_2019-06-06_01-08-38.jpg
+ [1]: https://r2.imsxx.com/wp-content/uploads/2019/06/Snipaste_2019-06-06_01-11-35.jpg
+ [2]: https://r2.imsxx.com/wp-content/uploads/2019/06/Snipaste_2019-06-06_00-46-19.jpg
+ [3]: https://r2.imsxx.com/wp-content/uploads/2019/06/Snipaste_2019-06-06_01-05-05.jpg
+ [4]: https://r2.imsxx.com/wp-content/uploads/2019/06/Snipaste_2019-06-06_01-08-38.jpg
 

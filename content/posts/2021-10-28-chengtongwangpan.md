@@ -4,9 +4,9 @@ author: 梦随乡兮
 type: post
 date: 2021-10-28T08:57:05+00:00
 url: /chengtongwangpan.html
-featured_image: https://imsxx.com/wp-content/uploads/2021/10/QQ截图20211028165613.png
+featured_image: https://r2.imsxx.com/wp-content/uploads/2021/10/QQ截图20211028165613.png
 日志头图:
-  - https://imsxx.com/wp-content/uploads/2021/10/QQ截图20211028165613.png
+  - https://r2.imsxx.com/wp-content/uploads/2021/10/QQ截图20211028165613.png
 views:
   - 3780
 like:
@@ -31,7 +31,7 @@ slug: "chengtongwangpan"
 
 最快70kb每秒，且不支持断点续传。我直接人好家伙- -然后看下载页面月会员、季会员、年会员、永久会员，占整个页面70%的篇幅推广。<figure class="wp-block-image size-large">
 
-<img loading="lazy" decoding="async" width="1024" height="283" src="https://imsxx.com/wp-content/uploads/2021/10/QQ截图20211028165812.png" alt="" class="wp-image-395" /> </figure> 
+<img loading="lazy" decoding="async" width="1024" height="283" src="https://r2.imsxx.com/wp-content/uploads/2021/10/QQ截图20211028165812.png" alt="" class="wp-image-395" /> </figure> 
 
 我平时用得不多，所以直接去淘宝搜一下看有没有共享账号，去油猴吾爱上面看看有没有高速下载的解析工具。要么没有，要么找到就失效了。
 
@@ -43,14 +43,14 @@ slug: "chengtongwangpan"
 
 看着吊样子我只能靠自己了，想着资料对我还是挺重要的，开了个99的普通年费会员。<figure class="wp-block-image size-large">
 
-<img loading="lazy" decoding="async" width="1024" height="345" src="https://imsxx.com/wp-content/uploads/2021/10/QQ截图20211028165758.png" alt="" class="wp-image-396" /> </figure> 
+<img loading="lazy" decoding="async" width="1024" height="345" src="https://r2.imsxx.com/wp-content/uploads/2021/10/QQ截图20211028165758.png" alt="" class="wp-image-396" /> </figure> 
 
 <p class="is-style-default">
   然后……
 </p>
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="546" height="445" src="https://imsxx.com/wp-content/uploads/2021/10/QQ截图20211028225814.png" alt="" class="wp-image-403" /></figure>
+  <figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="546" height="445" src="https://r2.imsxx.com/wp-content/uploads/2021/10/QQ截图20211028225814.png" alt="" class="wp-image-403" /></figure>
 </div>
 
 15MB/秒，虽然达不到我带宽上限，但还是直接好家伙。果然氪金和不氪金的区别就是不一样！原本要下4天的资源秒秒钟搞定。

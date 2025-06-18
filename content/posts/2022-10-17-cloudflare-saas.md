@@ -4,7 +4,7 @@ author: 梦随乡兮
 type: post
 date: 2022-10-16T19:00:33+00:00
 url: /cloudflare-saas.html
-featured_image: https://imsxx.com/wp-content/uploads/2022101811593311.png
+featured_image: https://r2.imsxx.com/wp-content/uploads/2022101811593311.png
 views:
   - 3712
 hide_content:
@@ -95,7 +95,7 @@ slug: "cloudflare-saas"
 
 在cloudflare侧边栏，点击**SSL/TLS→自定义主机名**，就会看到开通SaaS的提示。
 
-[<img loading="lazy" decoding="async" class="aligncenter wp-image-479 size-full" src="https://imsxx.com/wp-content/uploads/QQ截图20221017015547.png" alt="" width="263" height="525" />][1]
+[<img loading="lazy" decoding="async" class="aligncenter wp-image-479 size-full" src="https://r2.imsxx.com/wp-content/uploads/QQ截图20221017015547.png" alt="" width="263" height="525" />][1]
 
 开通是免费的，但需要绑定信用卡或paypal。cloudflare作为全球最大的免费CDN服务商，并且我使用了多年，故我个人不担心被它反向扣费，所以直接绑定了信用卡，如果担心将来协议更改导致被扣费，你可以绑定paypal。
 
@@ -109,9 +109,9 @@ slug: "cloudflare-saas"
 
 在侧栏点击**DNS**进入域名解析页面：
 
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-480" src="https://imsxx.com/wp-content/uploads/QQ截图20221017020113.png" alt="" width="264" height="229" /> 
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-480" src="https://r2.imsxx.com/wp-content/uploads/QQ截图20221017020113.png" alt="" width="264" height="229" /> 
 
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-484" src="https://imsxx.com/wp-content/uploads/QQ截图20221017021324.png" alt="" width="1032" height="350" /> 
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-484" src="https://r2.imsxx.com/wp-content/uploads/QQ截图20221017021324.png" alt="" width="1032" height="350" /> 
 
 添加一条记录：
 
@@ -127,7 +127,7 @@ slug: "cloudflare-saas"
 
 先添加**回退源**：
 
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-482" src="https://imsxx.com/wp-content/uploads/QQ截图20221017020825.png" alt="" width="1030" height="237" /> 
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-482" src="https://r2.imsxx.com/wp-content/uploads/QQ截图20221017020825.png" alt="" width="1030" height="237" /> 
 
 这里的地址就是上面我们配置的二级域名：duelmeta.ygodl.com
 
@@ -135,43 +135,43 @@ slug: "cloudflare-saas"
 
 点击“添加回退源”，保存后刷新一下，检测是否有效。有效会显示下图这样：
 
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-483" src="https://imsxx.com/wp-content/uploads/QQ截图20221017021017.png" alt="" width="996" height="156" /> 
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-483" src="https://r2.imsxx.com/wp-content/uploads/QQ截图20221017021017.png" alt="" width="996" height="156" /> 
 
 ### <span class="ez-toc-section" id="%E6%8E%A5%E5%85%A5%E5%9F%9F%E5%90%8D"></span>接入域名<span class="ez-toc-section-end"></span>
 
 当上面显示“有效”，就可以开始接入我们想要加速的域名了。点击 **SSL/TLS→自定义主机名→添加自定义主机名**。
 
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-486" src="https://imsxx.com/wp-content/uploads/QQ截图20221017021737.png" alt="" width="1041" height="219" /> 
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-486" src="https://r2.imsxx.com/wp-content/uploads/QQ截图20221017021737.png" alt="" width="1041" height="219" /> 
 
 看到以下界面后，将你要加速的域名填入(顶级域名和二级域名都行)。
 
-<img loading="lazy" decoding="async" class="aligncenter wp-image-485" src="https://imsxx.com/wp-content/uploads/QQ截图20221017021801.png" alt="" width="640" height="356" /> 
+<img loading="lazy" decoding="async" class="aligncenter wp-image-485" src="https://r2.imsxx.com/wp-content/uploads/QQ截图20221017021801.png" alt="" width="640" height="356" /> 
 
 其他选项保持默认，直接点**添加自定义主机名。**随后cloudflare会给出两个TXT记录：**“证书验证”**和**“主机名预验证”**。
 
 ※这里我只出现**“主机名预验证”**，是因为我在写文章之前已经做过**“证书验证”**，因此就没有了。你的域名首次验证肯定会有两条，如果出现和我一样的情况，可能是你准备的中转域名接入过cloudflare，不过这也不影响。
 
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-487" src="https://imsxx.com/wp-content/uploads/QQ截图20221017022303.png" alt="" width="1086" height="642" /> 
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-487" src="https://r2.imsxx.com/wp-content/uploads/QQ截图20221017022303.png" alt="" width="1086" height="642" /> 
 
 然后我们切换到需要加速域名的服务商这里来设置上面给出的TXT验证。
 
 设置如下图：
 
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-488" src="https://imsxx.com/wp-content/uploads/QQ截图20221017022334.png" alt="" width="1389" height="130" /> 
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-488" src="https://r2.imsxx.com/wp-content/uploads/QQ截图20221017022334.png" alt="" width="1389" height="130" /> 
 
 需要注意在填写“主机记录(记录值)”时，有些服务商不用填写末尾地址，比如cloudflare给我是：
 
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-491" src="https://imsxx.com/wp-content/uploads/QQ截图20221017023131.png" alt="" width="342" height="102" /> 
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-491" src="https://r2.imsxx.com/wp-content/uploads/QQ截图20221017023131.png" alt="" width="342" height="102" /> 
 
 值后面带了域名，而我在腾讯解析这里并不需要写后面的域名，写了域名反而会验证不了。
 
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-490" src="https://imsxx.com/wp-content/uploads/QQ截图20221017023059.png" alt="" width="444" height="102" /> 
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-490" src="https://r2.imsxx.com/wp-content/uploads/QQ截图20221017023059.png" alt="" width="444" height="102" /> 
 
 如果你出现了无法验证的问题，就删掉后面的域名保存后再等等是否验证成功。
 
 当你把TXT都设置正确后，返回到cloudflare SaaS界面，就会看到“证书状态”和“主机名状态”都识别成有效了。如下图：
 
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-489" src="https://imsxx.com/wp-content/uploads/QQ截图20221017022432.png" alt="" width="1061" height="436" /> 
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-489" src="https://r2.imsxx.com/wp-content/uploads/QQ截图20221017022432.png" alt="" width="1061" height="436" /> 
 
 这个验证过程是cloudflare自动的，一般几分钟就好了，超过5分钟没验证通过就去加速域名服务商那改一下TXT记录，上面说的那样改。
 
@@ -181,7 +181,7 @@ slug: "cloudflare-saas"
 
 在加速域名服务商那，设置：
 
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-493" src="https://imsxx.com/wp-content/uploads/QQ截图20221017025217.png" alt="" width="1366" height="120" /> 
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-493" src="https://r2.imsxx.com/wp-content/uploads/QQ截图20221017025217.png" alt="" width="1366" height="120" /> 
 
 主机记录：**SSL/TLS→自定义主机名，你设置过要加速的域名。**注意不是完整填写，如果你要加速二级域名，就填写对应的前缀。如果是加速主域名，就像我上图一样，填写@。
 
@@ -189,7 +189,7 @@ slug: "cloudflare-saas"
 
 然后就是在 **线路类型** 这里，改成**境外**。如果发现部分国内访问也在走cloudflare线路，就把原本直连的A记录或CDN的cname记录改成走**“境内”**。
 
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-494" src="https://imsxx.com/wp-content/uploads/QQ截图20221017025052.png" alt="" width="1294" height="510" /> 
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-494" src="https://r2.imsxx.com/wp-content/uploads/QQ截图20221017025052.png" alt="" width="1294" height="510" /> 
 
 这样我们的网站，被国内访问就正常走国内的直连或CDN，当被国外访问时就走了cloudflare CDN。
 
@@ -199,7 +199,7 @@ slug: "cloudflare-saas"
 
 你现在可以来ping一下域名：<a rel="nofollow" href="https://tools.ipip.net/newping.php" target="_blank" rel="noopener">tools.ipip.net/newping.php</a>
 
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-499" src="https://imsxx.com/wp-content/uploads/QQ截图20221017030807.png" alt="" width="693" height="704" /> 
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-499" src="https://r2.imsxx.com/wp-content/uploads/QQ截图20221017030807.png" alt="" width="693" height="704" /> 
 
 可以看到国外的访问速度已经直逼国内的速度啦。另外，你如果有网络条件也可以自己看看，当你分别使用国内网络和国外网络访问时，网站应用的证书也不同。因为国内访问用了我们原本的线路和证书，而国外访问则使用了cloudflare下发的证书。
 
@@ -208,13 +208,13 @@ slug: "cloudflare-saas"
 <div id='gallery-3' class='gallery galleryid-478 gallery-columns-2 gallery-size-full'>
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <img loading="lazy" decoding="async" width="545" height="544" src="https://imsxx.com/wp-content/uploads/QQ截图20221017024520.png" class="attachment-full size-full" alt="" />
+      <img loading="lazy" decoding="async" width="545" height="544" src="https://r2.imsxx.com/wp-content/uploads/QQ截图20221017024520.png" class="attachment-full size-full" alt="" />
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <img loading="lazy" decoding="async" width="547" height="535" src="https://imsxx.com/wp-content/uploads/QQ截图20221017024446.png" class="attachment-full size-full" alt="" />
+      <img loading="lazy" decoding="async" width="547" height="535" src="https://r2.imsxx.com/wp-content/uploads/QQ截图20221017024446.png" class="attachment-full size-full" alt="" />
     </dt>
   </dl>
   
@@ -233,5 +233,5 @@ slug: "cloudflare-saas"
   2. 配置完成后打开cloudflare→SSL/TLS，将加密模式切换成“完全”；
   3. 再刷新就可以看到正常打开。
 
- [1]: https://imsxx.com/wp-content/uploads/QQ截图20221017015547.png
+ [1]: https://r2.imsxx.com/wp-content/uploads/QQ截图20221017015547.png
 
