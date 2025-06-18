@@ -3,7 +3,6 @@ title: （待填坑）搭建在海外的WordPress网站如何做好国内访问
 author: 梦随乡兮
 type: post
 date: 2021-09-02T08:13:48+00:00
-url: /wordpress-cdn-cn.html
 featured_image: https://r2.imsxx.com/wp-content/uploads/2021/09/banner-wordpress.png
 views:
 - 710

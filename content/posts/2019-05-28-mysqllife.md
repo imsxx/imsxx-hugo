@@ -3,7 +3,6 @@ title: 解决服务器占用过高导致数据库进程被杀无法打开网站�
 author: 梦随乡兮
 type: post
 date: 2019-05-27T17:19:14+00:00
-url: /mysqllife.html
 featured_image: https://r2.imsxx.com/wp-content/uploads/2020/04/宝塔面版.jpg
 views:
 - 1138

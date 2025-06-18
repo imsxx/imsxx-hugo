@@ -3,7 +3,6 @@ title: 使用宝塔面板搭建WordPress的PHP、MySQL等全套优化
 author: 梦随乡兮
 type: post
 date: 2022-10-14T13:57:31+00:00
-url: /bt-wordpress.html
 featured_image: https://r2.imsxx.com/wp-content/uploads/314821.jpg
 views:
 - 1862

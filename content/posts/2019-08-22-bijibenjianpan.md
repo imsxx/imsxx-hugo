@@ -3,7 +3,6 @@ title: 禁用笔记本自带键盘教程，百度出来没一个靠谱的。
 author: 梦随乡兮
 type: post
 date: 2019-08-22T15:46:44+00:00
-url: /bijibenjianpan.html
 featured_image: https://r2.imsxx.com/wp-content/uploads/2019/08/17e5e54d74ceb0.png
 zrz_credit_add:
 - 1

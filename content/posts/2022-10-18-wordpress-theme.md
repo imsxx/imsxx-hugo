@@ -3,7 +3,6 @@ title: 记录那些年在WordPress付费主题上花过的冤枉钱~ B2、DUX、
 author: 梦随乡兮
 type: post
 date: 2022-10-18T05:40:49+00:00
-url: /wordpress-theme.html
 featured_image: https://r2.imsxx.com/wp-content/uploads/2022101815421952.png
 views:
 - 2474

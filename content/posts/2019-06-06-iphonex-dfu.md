@@ -3,7 +3,6 @@ title: iPhoneX刷机失败变砖如何进入dfu模式恢复和强制刷入新系
 author: 梦随乡兮
 type: post
 date: 2019-06-05T18:48:27+00:00
-url: /iphonex-dfu.html
 featured_image: https://r2.imsxx.com/wp-content/uploads/2019/06/iOS-12-Beta-2-without-developer-account-240x180.png
 views:
 - 4773

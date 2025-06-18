@@ -3,7 +3,6 @@ title: 使用cloudflare对新老域名进行URL转发
 author: 梦随乡兮
 type: post
 date: 2022-11-06T14:33:46+00:00
-url: /cloudflare-url-zhuanfa.html
 featured_image: https://r2.imsxx.com/wp-content/uploads/9d840e3d45a82a0.png
 views:
 - 1943

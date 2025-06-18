@@ -3,7 +3,6 @@ title: win10下iTunes恢复iOS版本提示“磁盘已满”的解决办法
 author: 梦随乡兮
 type: post
 date: 2019-06-05T17:12:06+00:00
-url: /itunes-ios-itunes.html
 featured_image: https://r2.imsxx.com/wp-content/uploads/2019/06/Snipaste_2019-06-06_01-11-35-240x180.jpg
 views:
 - 4115

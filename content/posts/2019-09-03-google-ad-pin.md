@@ -3,7 +3,6 @@ title: 收不到谷歌广告联盟PIN码怎么办
 author: 梦随乡兮
 type: post
 date: 2019-09-03T09:24:01+00:00
-url: /google-ad-pin.html
 featured_image: https://r2.imsxx.com/wp-content/uploads/2019/09/1dcc2be6ef5261.png
 b2_single_post_style:
 - post-style-1
