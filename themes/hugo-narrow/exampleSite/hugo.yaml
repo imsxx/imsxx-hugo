@@ -186,6 +186,15 @@ params:
     dracula:
       name: "Dracula"
       order: 8
+    amethyst:
+      name: "Amethyst"
+      order: 9
+    slate:
+      name: "Slate"
+      order: 10
+    twitter:
+      name: "Twitter"
+      order: 11
 
 
   home:
@@ -195,8 +204,9 @@ params:
     showRelated: true           # show related posts
     relatedPostsCount: 3        # posts number
   
-    showLicense: true
     license:
+      show: true
+      author: "Hugo Narrow"
       name: "CC BY-NC-SA 4.0"
       description: "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Please attribute the source, use non-commercially, and maintain the same license."
       url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
