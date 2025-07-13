@@ -2,7 +2,7 @@
 title: 终极指南：利用Google Cloud+Cloudflare Tunnel免费部署私人密码库Bitwarden（保姆级教程）
 author: 梦随乡兮
 type: post
-date: 2024-12-19T00:00:00+00:00
+date: 2025-07-12T00:00:00+00:00
 views:
 - 244
 categories:
