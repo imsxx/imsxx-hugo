@@ -1,26 +1,12 @@
 ﻿---
 title: 禁用笔记本自带键盘教程，百度出来没一个靠谱的。
 author: 梦随乡兮
-type: post
+
 date: 2019-08-22T15:46:44+00:00
-featured_image: https://r2.imsxx.com/wp-content/uploads/2019/08/17e5e54d74ceb0.png
+
 zrz_credit_add:
-- 1
-views:
-- 1049
-like:
-- 1
 b2_post_reading_role:
-- none
-b2_vote:
-- 'a:2:{s:2:"up";i:0;s:4:"down";i:0;}'
-categories:
-- 笔记
-tags:
-- win10
-- 禁用
-- 笔记本
-- 键盘
+
 slug: "bijibenjianpan"
 ---
 笔记本在上个月进了雨水，虽然抢救回来勉强能用了，但是自带键盘却坏了。由于是2014年的老本子，搜索了一圈也没找到键盘，索性只能外接一个将它禁用。

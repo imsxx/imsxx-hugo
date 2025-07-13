@@ -1,23 +1,9 @@
 ﻿---
 title: 支付宝个人签约当面付出现审核未通过被驳回的处理记录
 author: 梦随乡兮
-type: post
+
 date: 2019-08-23T08:57:51+00:00
-featured_image: https://r2.imsxx.com/wp-content/uploads/2019/08/QQ截图20190823165233.jpg
-views:
-- 1439
-like:
-- 1
-b2_vote:
-- 'a:2:{s:2:"up";i:0;s:4:"down";i:0;}'
-categories:
-- 笔记
-tags:
-- 域名
-- 当面付
-- 支付
-- 支付宝
-- 网站
+
 slug: "zhifubao-qianyue"
 ---
 最近支付宝个人签约当面付火起来了，试了下发现多次提交被驳回，原因是：我多年前注册的一个域名被人用来搞H色了，我寻思打电话问问客服怎么处理吧。毕竟我目前申请的网站并不违规，报错的是另一个站。

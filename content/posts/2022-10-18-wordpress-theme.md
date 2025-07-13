@@ -1,38 +1,13 @@
 ﻿---
 title: 记录那些年在WordPress付费主题上花过的冤枉钱~ B2、DUX、LightSNS、Rouse、DiVi
 author: 梦随乡兮
-type: post
+
 date: 2022-10-18T05:40:49+00:00
-featured_image: https://r2.imsxx.com/wp-content/uploads/2022101815421952.png
-views:
-- 2474
-日志头图:
-- https://r2.imsxx.com/wp-content/uploads/2021/09/Rain01.png
 打赏:
-- checked
-like:
-- 4
 single_toc:
-- 1
 hide_content:
-- close
 post_views_count:
-- 2
-categories:
-- 笔记
-tags:
-- 7B2
-- C.U.X
-- DiVi
-- DUX
-- LightSNS
-- Panda PRO
-- Relive-Pro
-- Rouse
-- wordpress
-- WordPress主题
-- WordPress建站
-- XIU
+
 slug: "wordpress-theme"
 ---
 用WordPress做站也挺多年了，技术不够钞票来凑。相比于写一个主题或插件，买市面上成熟的产品是一个不错的选择。

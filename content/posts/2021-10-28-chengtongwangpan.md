@@ -1,20 +1,9 @@
 ﻿---
 title: 城通网盘下载速度慢怎么办？永久会员值不值得开？
 author: 梦随乡兮
-type: post
+
 date: 2021-10-28T08:57:05+00:00
-featured_image: https://r2.imsxx.com/wp-content/uploads/2021/10/QQ截图20211028165613.png
-日志头图:
-- https://r2.imsxx.com/wp-content/uploads/2021/10/QQ截图20211028165613.png
-views:
-- 3780
-like:
-- 2
-categories:
-- 笔记
-tags:
-- 城通网盘
-- 网盘下载
+
 slug: "chengtongwangpan"
 ---
 城通网盘一直都是个神奇的存在。神奇在这个基本在网上没有正面评价的网盘居然还活着。

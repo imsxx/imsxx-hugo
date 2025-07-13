@@ -1,16 +1,9 @@
 ﻿---
 title: 使用cloudflare对新老域名进行URL转发
 author: 梦随乡兮
-type: post
+
 date: 2022-11-06T14:33:46+00:00
-featured_image: https://r2.imsxx.com/wp-content/uploads/9d840e3d45a82a0.png
-views:
-- 1943
-categories:
-- 笔记
-tags:
-- cloudflare
-- URL转发
+
 slug: "cloudflare-url-zhuanfa"
 ---
 之前写过《<a title="网站利用cloudflare SaaS实现分流加速国外访问-梦随乡兮" href="https://imsxx.com/cloudflare-saas.html" target="_blank" rel="noopener">网站利用cloudflare SaaS实现分流加速国外访问</a>》，里面我提到了老域名需要跳转到新域名去。

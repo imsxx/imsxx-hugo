@@ -1,19 +1,9 @@
 ﻿---
 title: （待填坑）搭建在海外的WordPress网站如何做好国内访问
 author: 梦随乡兮
-type: post
+
 date: 2021-09-02T08:13:48+00:00
-featured_image: https://r2.imsxx.com/wp-content/uploads/2021/09/banner-wordpress.png
-views:
-- 710
-日志头图:
-- https://r2.imsxx.com/wp-content/uploads/2021/09/banner-wordpress.png
-categories:
-- 笔记
-tags:
-- cloudflare
-- wordpress
-- 网站优化
+
 slug: "wordpress-cdn-cn"
 ---
 <div class="wp-block-pandastudio-title">

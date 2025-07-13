@@ -1,15 +1,7 @@
-﻿---
+---
 title: '搬瓦工安装锐速 教程'
 author: 梦随乡兮
-type: post
 date: 2019-08-23T16:28:37+00:00
-featured_image: https://r2.imsxx.com/wp-content/uploads/2019/08/QQ截图20190824001650.png
-views:
-- 1911
-b2_vote:
-- 'a:2:{s:2:"up";i:0;s:4:"down";i:0;}'
-zrz_favorites:
-- 'a:0:{}'
 categories:
 - 笔记
 tags:

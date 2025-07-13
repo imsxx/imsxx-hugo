@@ -1,23 +1,9 @@
 ﻿---
 title: win10下iTunes恢复iOS版本提示“磁盘已满”的解决办法
 author: 梦随乡兮
-type: post
+
 date: 2019-06-05T17:12:06+00:00
-featured_image: https://r2.imsxx.com/wp-content/uploads/2019/06/Snipaste_2019-06-06_01-11-35-240x180.jpg
-views:
-- 4115
-like:
-- 2
-b2_vote:
-- 'a:2:{s:2:"up";i:0;s:4:"down";i:0;}'
-categories:
-- 笔记
-tags:
-- iOS
-- iOS13
-- iTunes
-- 备份
-- 恢复
+
 slug: "itunes-ios-itunes"
 ---
 昨天升级了最新的iOS13开发者预览版看了一下新版本的一些东西。

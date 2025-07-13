@@ -1,22 +1,12 @@
 ﻿---
 title: 同一服务器下多站点使用WordPress该如何设置Redis缓存
 author: 梦随乡兮
-type: post
+
 date: 2019-11-18T08:00:04+00:00
-featured_image: https://r2.imsxx.com/wp-content/uploads/2019/11/c4d79289f8430ab.jpg
+
 fromname_value:
-- 熊猫博客
 fromurl_value:
-- https://www.pandacui.com/231.html
-views:
-- 2407
-categories:
-- 笔记
-tags:
-- Redis
-- wordpress
-- 宝塔
-- 建站
+
 slug: "wordpress-redis"
 ---
 <nav>

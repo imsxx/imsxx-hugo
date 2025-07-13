@@ -1,24 +1,9 @@
 ﻿---
 title: 解决服务器占用过高导致数据库进程被杀无法打开网站的问题
 author: 梦随乡兮
-type: post
+
 date: 2019-05-27T17:19:14+00:00
-featured_image: https://r2.imsxx.com/wp-content/uploads/2020/04/宝塔面版.jpg
-views:
-- 1138
-b2_vote:
-- 'a:2:{s:2:"up";a:1:{i:0;i:1;}s:4:"down";a:0:{}}'
-日志头图:
-- https://r2.imsxx.com/wp-content/uploads/2020/04/宝塔面版.jpg
-bigfa_ding:
-- 2
-categories:
-- 笔记
-tags:
-- mysql
-- 优化
-- 网站
-- 进程
+
 slug: "mysqllife"
 ---
 最近网站访问一高就会挂掉，之前看了不少网上大佬的教程发现每一个能用的。估计不是同一病症。

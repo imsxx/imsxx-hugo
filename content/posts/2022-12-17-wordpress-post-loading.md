@@ -1,21 +1,10 @@
 ﻿---
 title: WordPress点击发布文章时“无限加载”解决办法
 author: 梦随乡兮
-type: post
+
 date: 2022-12-16T17:02:37+00:00
-featured_image: https://r2.imsxx.com/wp-content/uploads/17d1bcd4325753d.jpg
-views:
-- 670
 suxing_ding:
-- 1
-like:
-- 1
-categories:
-- 笔记
-tags:
-- post
-- wordpress
-- 邮件
+
 slug: "wordpress-post-loading"
 ---
 在服务器未做大调试的情况下，优先考虑插件和自写代码的问题。

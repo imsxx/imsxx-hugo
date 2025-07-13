@@ -1,24 +1,9 @@
 ﻿---
 title: WordPress因php-fpm导致的服务器CPU占用爆满
 author: 梦随乡兮
-type: post
+
 date: 2020-05-11T09:21:24+00:00
-featured_image: https://r2.imsxx.com/wp-content/uploads/2020/05/52ab9ef9f1af91c.jpg
-views:
-- 1662
-like:
-- 2
-bigfa_ding:
-- 1
-categories:
-- 笔记
-tags:
-- CPU
-- php-fpm
-- vps
-- wordpress
-- 占用
-- 服务器
+
 slug: "wordpress-php-fpm"
 ---
 上图是解决占用之后的进程，之前2核CPU是占满的。

@@ -1,24 +1,9 @@
 ﻿---
 title: iPhoneX刷机失败变砖如何进入dfu模式恢复和强制刷入新系统？
 author: 梦随乡兮
-type: post
+
 date: 2019-06-05T18:48:27+00:00
-featured_image: https://r2.imsxx.com/wp-content/uploads/2019/06/iOS-12-Beta-2-without-developer-account-240x180.png
-views:
-- 4773
-like:
-- 1
-b2_vote:
-- 'a:2:{s:2:"up";i:0;s:4:"down";i:0;}'
-categories:
-- 笔记
-tags:
-- dfu模式
-- iOS
-- iOS12
-- iPhoneX
-- 刷机失败
-- 强刷系统
+
 slug: "iphonex-dfu"
 ---
 接上一篇文章，<a href="https://imsxx.com/itunes-ios.html" target="_blank" rel="noopener noreferrer">win10下iTunes恢复iOS版本提示“磁盘已满”的解决办法</a>。

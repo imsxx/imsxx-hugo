@@ -1,16 +1,9 @@
 ﻿---
 title: 在wordpress所有文章第二段落中插入广告
 author: 梦随乡兮
-type: post
+
 date: 2024-07-08T07:22:23+00:00
-views:
-- 244
-categories:
-- 笔记
-tags:
-- wordpress
-- 广告位
-- 文章
+
 slug: "wordpress-post-ad"
 ---
 将下面这段代码添加到网站根目录下functions.php文件中，添加到文件的最后即可。如果你添加了没有生效，先清空缓存试试，再看看你使用的主题模板是否有单独的functions.php自定义文件调用。

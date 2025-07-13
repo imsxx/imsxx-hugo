@@ -1,18 +1,9 @@
 ﻿---
 title: 1panel开启WordPress的redis缓存流程 流程优化版
 author: 梦随乡兮
-type: post
+
 date: 2024-04-17T04:39:26+00:00
-views:
-- 1436
-like:
-- 6
-categories:
-- 笔记
-tags:
-- 1panel面板
-- redis缓存
-- WordPress建站
+
 slug: "1panel-wordpress-redis"
 ---
 之前在网上搜了一些教程，发现已经有人做过了，但中间有一些细节写错，这里自己写一版。
