@@ -26,6 +26,7 @@ permalinks = { posts = "/posts/:slug/" }
   defaultAuthor = "梦随乡兮"
   language = "zh-CN"
   shortName = "梦随"
+  images = ["/images/og-default.png"]
   
   # Logo 和 Favicon
   [params.logo]
@@ -78,10 +79,12 @@ permalinks = { posts = "/posts/:slug/" }
   [params.post]
     showRelated = true
     relatedPostsCount = 3
-    showLicense = true
     
     [params.post.license]
+      show = true
+      author = "梦随乡兮"
       name = "CC BY-NC-SA 4.0"
+      description = "本作品采用知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议进行许可。请注明出处，非商业使用，并保持相同许可。"
       url = "https://creativecommons.org/licenses/by-nc-sa/4.0/"
       displayName = "CC BY-NC-SA 4.0"
   
@@ -109,7 +112,31 @@ permalinks = { posts = "/posts/:slug/" }
   # 图片画廊
   [params.justified_gallery]
     enabled = false
-    url = "https://github.com/imsxx"
+    rowHeight = 300
+    gutter = 30
+    lastRow = "center"
+    transitionDuration = "0.3s"
+    resizeDebounce = 100
+    rowHeightTolerance = 0.25
+    maxRowsCount = 999999
+    calculateItemsHeight = false
+  
+  # 代码块设置
+  [params.codeblock]
+    [params.codeblock.collapse]
+      enabled = true
+      defaultState = "expanded"
+      autoCollapseLines = 30
+      autoCollapseHeight = 400
+      collapsedHeight = 120
+  
+  # 阅读进度条
+  [params.readingProgress]
+    enabled = true
+    height = 3
+    showOnHomepage = false
+    smoothScroll = true
+    hideOnComplete = false
 
 [menus]
   [[menus.main]]
@@ -161,23 +188,6 @@ permalinks = { posts = "/posts/:slug/" }
     name = "github"
     URL = "https://github.com/imsxx/imsxx-hugo"
 
-# 代码块设置
-[codeblock]
-  [codeblock.collapse]
-    enabled = true
-    defaultState = "expanded"
-    autoCollapseLines = 30
-    autoCollapseHeight = 400
-    collapsedHeight = 120
-
-# 阅读进度条
-[readingProgress]
-  enabled = true
-  height = 3
-  showOnHomepage = false
-  smoothScroll = true
-  hideOnComplete = false
-
 [markup]
   [markup.tableOfContents]
     startLevel = 2
@@ -199,7 +209,14 @@ permalinks = { posts = "/posts/:slug/" }
 
 # 输出格式
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS", "JSON", "WebAppManifest"]
+
+# 自定义输出格式
+[outputFormats]
+  [outputFormats.WebAppManifest]
+    mediaType = "application/manifest+json"
+    baseName = "site"
+    isPlainText = true
 
 # Hugo 模块设置
 [module]
