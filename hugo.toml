@@ -1,0 +1,225 @@
+baseURL = 'https://imsxx.com/'
+languageCode = 'zh-cn'
+defaultContentLanguage = 'zh-cn'
+title = '梦随乡兮'
+theme = 'hugo-narrow'
+
+hasCJKLanguage = true
+enableEmoji = true
+
+permalinks = { posts = "/posts/:slug/" }
+
+# 分页设置
+[pagination]
+  pagerSize = 6
+  path = "page"
+
+# 分类法配置
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  # 基本站点信息
+  description = "梦随乡兮的个人博客，留给我的时间恐怕是不多了。"
+  keywords = ["梦随乡兮", "生活记录", "个人笔记"]
+  defaultAuthor = "梦随乡兮"
+  language = "zh-CN"
+  shortName = "梦随"
+  images = ["/images/og-default.png"]
+  
+  # Logo 和 Favicon
+  [params.logo]
+    link = "/"
+    image = "/logo.png"
+  
+  [params.favicon]
+    svg = "/favicon.svg"
+  
+  # 作者信息
+  [params.author]
+    name = "梦随乡兮"
+    title = "四川·成都"
+    description = "一年也更新不了几次，干脆搬github上白嫖了"
+    avatar = "/logo.png"
+    
+    [[params.author.social]]
+      name = "GitHub"
+      url = "https://github.com/imsxx"
+      icon = "github"
+  
+  # UI 组件控制
+  showThemeSwitch = true
+  showDarkModeSwitch = true
+  showLanguageSwitch = false
+  stickyHeader = true
+  
+  # 默认配色方案
+  colorScheme = "default"
+  
+  [params.themes]
+    [params.themes.default]
+      name = "Default"
+      order = 1
+    [params.themes.claude]
+      name = "Claude"
+      order = 2
+    [params.themes.emerald]
+      name = "Emerald"
+      order = 3
+    [params.themes.nord]
+      name = "Nord"
+      order = 4
+  
+  # 首页设置
+  [params.home]
+    recentPostsCount = 5
+  
+  # 文章设置
+  [params.post]
+    showRelated = true
+    relatedPostsCount = 3
+    
+    [params.post.license]
+      show = true
+      author = "梦随乡兮"
+      name = "CC BY-NC-SA 4.0"
+      description = "本作品采用知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议进行许可。请注明出处，非商业使用，并保持相同许可。"
+      url = "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      displayName = "CC BY-NC-SA 4.0"
+  
+  # 评论系统
+  [params.comments]
+    enabled = false
+    system = "giscus"
+  
+  # 分析统计
+  [params.analytics]
+    enabled = false
+  
+  # KaTeX 数学公式
+  [params.katex]
+    enabled = false
+  
+  # Mermaid 图表
+  [params.mermaid]
+    enabled = false
+  
+  # 灯箱效果
+  [params.lightbox]
+    enabled = false
+  
+  # 图片画廊
+  [params.justified_gallery]
+    enabled = false
+    rowHeight = 300
+    gutter = 30
+    lastRow = "center"
+    transitionDuration = "0.3s"
+    resizeDebounce = 100
+    rowHeightTolerance = 0.25
+    maxRowsCount = 999999
+    calculateItemsHeight = false
+  
+  # 代码块设置
+  [params.codeblock]
+    [params.codeblock.collapse]
+      enabled = true
+      defaultState = "expanded"
+      autoCollapseLines = 30
+      autoCollapseHeight = 400
+      collapsedHeight = 120
+  
+  # 阅读进度条
+  [params.readingProgress]
+    enabled = true
+    height = 3
+    showOnHomepage = false
+    smoothScroll = true
+    hideOnComplete = false
+
+[menus]
+  [[menus.main]]
+    name = "nav.posts"
+    pageRef = "/posts"
+    weight = 20
+    [menus.main.params]
+      icon = "posts"
+  
+  [[menus.main]]
+    name = "nav.categories"
+    pageRef = "/categories"
+    weight = 30
+    [menus.main.params]
+      icon = "categories"
+  
+  [[menus.main]]
+    name = "nav.tags"
+    pageRef = "/tags"
+    weight = 40
+    [menus.main.params]
+      icon = "tags"
+  
+  [[menus.main]]
+    name = "nav.archives"
+    pageRef = "/archives"
+    weight = 50
+    [menus.main.params]
+      icon = "archive"
+  
+  # 页脚菜单
+  [[menus.footer]]
+    name = "关于"
+    pageRef = "/about"
+    weight = 10
+    [menus.footer.params]
+      icon = "about"
+  
+  [[menus.footer]]
+    name = "RSS订阅"
+    url = "/index.xml"
+    weight = 30
+    [menus.footer.params]
+      icon = "rss"
+
+# GitHub Pages 部署设置
+[deployment]
+  [[deployment.targets]]
+    name = "github"
+    URL = "https://github.com/imsxx/imsxx-hugo"
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4
+    ordered = false
+  
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    lineNos = false
+    lineNumbersInTable = false
+    noClasses = false
+    style = "github"
+    tabWidth = 2
+
+# 输出格式
+[outputs]
+  home = ["HTML", "RSS", "JSON", "WebAppManifest"]
+
+# 自定义输出格式
+[outputFormats]
+  [outputFormats.WebAppManifest]
+    mediaType = "application/manifest+json"
+    baseName = "site"
+    isPlainText = true
+
+# Hugo 模块设置
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.146.0"

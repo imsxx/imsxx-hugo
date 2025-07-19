@@ -75,67 +75,56 @@ backend:
 
 ### 功能特性
 
-1. **文章管理**
-   - 创建、编辑、删除博客文章
-   - 支持 Markdown 编辑器
-   - 实时预览
-   - 设置分类和标签
-
-2. **媒体管理**
-   - 上传和管理图片
-   - 支持拖拽上传
-   - 图片优化
-
-3. **工作流**
-   - 草稿状态
-   - 待审核状态
-   - 发布状态
+- **在线编辑**: 直接在浏览器中编写和编辑文章
+- **实时预览**: 支持 Markdown 实时预览
+- **媒体管理**: 上传和管理图片等媒体文件
+- **工作流管理**: 支持草稿、审核、发布流程
+- **协作编辑**: 多人协作编辑和审核
+- **中文界面**: 完全中文化的管理界面
 
 ### 文章字段说明
 
 - **标题**: 文章标题
 - **作者**: 默认为 "梦随乡兮"
 - **发布日期**: 文章发布时间
-- **URL别名**: 自定义 URL slug
-- **分类**: 文章分类（可多选）
-- **标签**: 文章标签（可多选）
-- **摘要**: 文章摘要描述
-- **特色图片**: 文章封面图
+- **URL别名**: 自定义文章 URL（可选）
+- **分类**: 文章分类标签
+- **标签**: 文章标签
+- **摘要**: 文章简介（可选）
+- **特色图片**: 文章封面图（可选）
 - **草稿**: 是否为草稿状态
 - **正文**: 文章内容（Markdown 格式）
 
 ## 自定义域名配置
 
-如果使用自定义域名（如 imsxx.com），需要：
+如果使用自定义域名，需要更新以下配置：
 
-1. 在 Netlify 中配置自定义域名
-2. 更新 `static/admin/config.yml` 中的 `site_url` 和 `display_url`
-3. 确保 SSL 证书正确配置
+1. 在 `config.yml` 中更新 `site_url`
+2. 在 GitHub OAuth 应用中更新回调 URL
+3. 确保域名正确解析到 Cloudflare Pages
 
 ## 故障排除
 
-### 常见问题
+### 1. 无法访问 /admin/ 页面
+- 检查 `static/admin/index.html` 文件是否存在
+- 确认网站已正确部署到 Cloudflare Pages
+- 检查自定义域名配置是否正确
 
-1. **无法访问 /admin/ 页面**
-   - 检查 `static/admin/index.html` 文件是否存在
-   - 确认网站已正确部署到 Cloudflare Pages
-   - 检查自定义域名配置是否正确
+### 2. GitHub OAuth 登录问题
+- 确认 OAuth 应用的回调 URL 配置正确
+- 检查 `config.yml` 中的仓库名称是否正确
+- 确认 OAuth 应用状态为 Active
 
-2. **GitHub OAuth 登录问题**
-   - 确认 OAuth 应用的回调 URL 配置正确
-   - 检查 `config.yml` 中的仓库名称是否正确
-   - 确认 OAuth 应用状态为 Active
+### 3. 无法保存文章
+- 确认 GitHub 用户有仓库的写入权限
+- 检查分支名称配置是否正确（main/master）
+- 查看浏览器控制台错误信息
+- 确认 GitHub API 访问限制
 
-3. **无法保存文章**
-   - 确认 GitHub 用户有仓库的写入权限
-   - 检查分支名称配置是否正确（main/master）
-   - 查看浏览器控制台错误信息
-   - 确认 GitHub API 访问限制
-
-4. **图片上传失败**
-   - 检查媒体文件夹路径配置
-   - 确认文件大小限制
-   - 检查网络连接
+### 4. 图片上传失败
+- 检查媒体文件夹路径配置
+- 确认文件大小限制
+- 验证图片格式支持
 
 ### 调试步骤
 
@@ -148,6 +137,7 @@ backend:
 
 ### 自定义字段
 
+<<<<<<< HEAD
 可以在 `static/admin/config.yml` 中添加更多字段：
 
 ```yaml
@@ -176,3 +166,35 @@ fields:
 ---
 
 配置完成后，你就可以通过 Web 界面轻松管理博客内容，支持多人协作编辑！
+=======
+可以在 `config.yml` 中添加更多自定义字段，如：
+
+```yaml
+fields:
+  - {label: "SEO关键词", name: "keywords", widget: "list", required: false}
+  - {label: "文章类型", name: "type", widget: "select", options: ["技术", "生活", "随笔"]}
+  - {label: "置顶", name: "sticky", widget: "boolean", default: false}
+```
+
+### 多语言支持
+
+如需支持多语言，可以配置多个集合：
+
+```yaml
+collections:
+  - name: "blog-zh"
+    label: "中文博客"
+    folder: "content/zh/posts"
+  - name: "blog-en"
+    label: "English Blog"
+    folder: "content/en/posts"
+```
+
+### 自定义预览模板
+
+可以创建自定义预览模板来更好地展示内容预览效果。
+
+---
+
+**注意**: 首次使用需要完成 GitHub OAuth 应用配置，确保所有权限设置正确。
+>>>>>>> 8d82209fdaa6d8e4e8356253b12e95bb9d7e0cf4
