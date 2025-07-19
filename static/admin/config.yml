@@ -3,7 +3,7 @@ backend:
   repo: imsxx/imsxx-hugo
   branch: master # Branch to update (optional; defaults to master)
   site_domain: imsxx.com
-  auth_endpoint: /api/handler
+  auth_endpoint: https://your-auth-service.vercel.app/api/handler
 
 
 media_folder: "static/uploads"
