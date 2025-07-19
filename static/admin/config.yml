@@ -1,9 +1,8 @@
 backend:
   name: github
   repo: imsxx/imsxx-hugo
-  branch: master
-  base_url: https://imsxx.com
-  auth_endpoint: /api/auth
+  branch: master # Branch to update (optional; defaults to master)
+  site_domain: imsxx.com
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
