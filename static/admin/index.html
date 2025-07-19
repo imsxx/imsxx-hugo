@@ -4,10 +4,69 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>内容管理系统</title>
-  <link href="config.yml" type="text/yaml" rel="cms-config-url">
 </head>
 <body>
   <!-- Include the script that builds the page and powers Decap CMS -->
   <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+  <script>
+  CMS.init({
+    config: {
+      backend: {
+        name: 'github',
+        repo: 'imsxx/imsxx-hugo',
+        branch: 'master',
+        auth_type: 'pkce',
+      },
+      publish_mode: 'editorial_workflow',
+      media_folder: "static/images/uploads",
+      public_folder: "/images/uploads",
+      site_url: 'https://imsxx.com',
+      display_url: 'https://imsxx.com',
+      logo_url: 'https://imsxx.com/logo.png',
+      locale: 'zh_Hans',
+      editor: {
+        preview: true,
+      },
+      search: true,
+      collections: [
+        {
+          name: "posts",
+          label: "博客文章",
+          folder: "content/posts",
+          create: true,
+          slug: "{{year}}-{{month}}-{{day}}-{{slug}}",
+          fields: [
+            {label: "标题", name: "title", widget: "string"},
+            {label: "作者", name: "author", widget: "string", default: "梦随乡兮"},
+            {label: "发布日期", name: "date", widget: "datetime"},
+            {label: "URL别名", name: "slug", widget: "string", required: false},
+            {label: "分类", name: "categories", widget: "list", required: false},
+            {label: "标签", name: "tags", widget: "list", required: false},
+            {label: "摘要", name: "description", widget: "text", required: false},
+            {label: "特色图片", name: "featured_image", widget: "image", required: false},
+            {label: "草稿", name: "draft", widget: "boolean", default: false, required: false},
+            {label: "正文", name: "body", widget: "markdown"},
+          ],
+        },
+        {
+          name: "pages",
+          label: "页面",
+          files: [
+            {
+              label: "关于页面",
+              name: "about",
+              file: "content/about.md",
+              fields: [
+                {label: "标题", name: "title", widget: "string"},
+                {label: "发布日期", name: "date", widget: "datetime"},
+                {label: "正文", name: "body", widget: "markdown"},
+              ],
+            },
+          ],
+        },
+      ],
+    },
+  });
+  </script>
 </body>
 </html>
