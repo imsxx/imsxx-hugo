@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: imsxx/imsxx-hugo
-  branch: main
+  branch: master
   auth_type: pkce
 
 # This line should *not* be indented
