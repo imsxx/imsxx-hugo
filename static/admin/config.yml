@@ -1,7 +1,9 @@
 backend:
   name: github
   repo: imsxx/imsxx-hugo
-  branch: main # Branch to update (optional; defaults to master)
+  branch: main
+  # 使用 GitHub App 认证
+  auth_type: pkce
 
 # This line should *not* be indented
 publish_mode: editorial_workflow
