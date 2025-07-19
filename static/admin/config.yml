@@ -1,22 +1,22 @@
 backend:
   name: github
   repo: imsxx/imsxx-hugo
-  branch: main
+  branch: main # Branch to update (optional; defaults to master)
 
-editorial_workflow: true
-media_folder: static/images/uploads
-public_folder: /images/uploads
+# This line should *not* be indented
+publish_mode: editorial_workflow
 
-site_url: https://imsxx.com
-locale: zh_Hans
+# This line should *not* be indented
+media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
 
 collections:
-  - name: "blog"
-    label: "博客文章"
-    folder: "content/posts"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields:
+  - name: "posts" # Used in routes, e.g., /admin/collections/blog
+    label: "博客文章" # Used in the UI
+    folder: "content/posts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
       - {label: "标题", name: "title", widget: "string"}
       - {label: "作者", name: "author", widget: "string", default: "梦随乡兮"}
       - {label: "发布日期", name: "date", widget: "datetime"}
@@ -24,8 +24,8 @@ collections:
       - {label: "分类", name: "categories", widget: "list", required: false}
       - {label: "标签", name: "tags", widget: "list", required: false}
       - {label: "摘要", name: "description", widget: "text", required: false}
-      - {label: "特色图片", name: "image", widget: "image", required: false}
-      - {label: "草稿", name: "draft", widget: "boolean", default: false}
+      - {label: "特色图片", name: "featured_image", widget: "image", required: false}
+      - {label: "草稿", name: "draft", widget: "boolean", default: false, required: false}
       - {label: "正文", name: "body", widget: "markdown"}
 
   - name: "pages"
@@ -39,12 +39,20 @@ collections:
           - {label: "发布日期", name: "date", widget: "datetime"}
           - {label: "正文", name: "body", widget: "markdown"}
 
+# 站点设置
+site_url: https://imsxx.com
+display_url: https://imsxx.com
+logo_url: https://imsxx.com/logo.png
+
+# 本地化设置
+locale: 'zh_Hans'
+
+# 编辑器设置
 editor:
   preview: true
 
+# 搜索设置
 search: true
 
-media_library:
-  name: git
-  repo: imsxx/imsxx-hugo
-  branch: main
+# 媒体库设置 - 使用 GitHub 仓库存储
+# 不需要额外配置，直接使用仓库存储
