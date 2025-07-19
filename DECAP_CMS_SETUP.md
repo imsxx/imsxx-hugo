@@ -41,7 +41,7 @@ static/
 backend:
   name: github
   repo: imsxx/imsxx-hugo
-  branch: main
+  branch: master
   auth_type: pkce # 推荐使用 PKCE 认证
 ```
 
@@ -137,7 +137,6 @@ backend:
 
 ### 自定义字段
 
-<<<<<<< HEAD
 可以在 `static/admin/config.yml` 中添加更多字段：
 
 ```yaml
@@ -166,35 +165,5 @@ fields:
 ---
 
 配置完成后，你就可以通过 Web 界面轻松管理博客内容，支持多人协作编辑！
-=======
-可以在 `config.yml` 中添加更多自定义字段，如：
-
-```yaml
-fields:
-  - {label: "SEO关键词", name: "keywords", widget: "list", required: false}
-  - {label: "文章类型", name: "type", widget: "select", options: ["技术", "生活", "随笔"]}
-  - {label: "置顶", name: "sticky", widget: "boolean", default: false}
-```
-
-### 多语言支持
-
-如需支持多语言，可以配置多个集合：
-
-```yaml
-collections:
-  - name: "blog-zh"
-    label: "中文博客"
-    folder: "content/zh/posts"
-  - name: "blog-en"
-    label: "English Blog"
-    folder: "content/en/posts"
-```
-
-### 自定义预览模板
-
-可以创建自定义预览模板来更好地展示内容预览效果。
-
----
 
 **注意**: 首次使用需要完成 GitHub OAuth 应用配置，确保所有权限设置正确。
->>>>>>> 8d82209fdaa6d8e4e8356253b12e95bb9d7e0cf4
