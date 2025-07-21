@@ -1,0 +1,49 @@
+[data-theme="yu7theme"] {
+  --color-primary: oklch(0.65 0.19 150); /* 深翠绿色 */
+  --color-primary-foreground: oklch(0.98 0.007 150);
+  --color-secondary: oklch(0.70 0.11 130); /* 草地/树林绿 */
+  --color-secondary-foreground: oklch(0.98 0.007 150);
+  --color-accent: oklch(0.88 0.02 150); 
+  --color-accent-foreground: oklch(0.45 0.02 150);
+  --color-background: oklch(0.97 0.01 150); /* 浅灰中带一点绿 */
+  --color-foreground: oklch(0.22 0.03 150); /* 深绿文字 */
+  --color-muted: oklch(0.88 0.02 150);
+  --color-muted-foreground: oklch(0.45 0.02 150);
+  --color-border: oklch(0.80 0.015 150);
+  --color-card: oklch(0.96 0.01 150);
+  --color-card-foreground: oklch(0.22 0.03 150);
+  --color-popover: oklch(0.95 0.01 150);
+  --color-popover-foreground: oklch(0.22 0.03 150);
+
+  /* Notes */
+  --color-note: oklch(0.70 0.12 240);     /* 蓝调提示 */
+  --color-tip: oklch(0.70 0.13 160);      /* 草绿提示 */
+  --color-important: oklch(0.70 0.15 30); /* 烈日黄棕 */
+  --color-warning: oklch(0.75 0.17 85);   /* 阳光橙 */
+  --color-caution: oklch(0.65 0.18 25);   /* 土色警示 */
+}
+
+[data-theme="yu7theme"].dark {
+  --color-primary: oklch(0.72 0.20 150); /* 深翠绿色更亮一阶 */
+  --color-primary-foreground: oklch(0.15 0.035 150);
+  --color-secondary: oklch(0.65 0.13 130);
+  --color-secondary-foreground: oklch(0.16 0.03 130);
+  --color-accent: oklch(0.34 0.025 150);   
+  --color-accent-foreground: oklch(0.84 0.01 150);
+  --color-background: oklch(0.24 0.03 150); /* 夜间深绿背景，保留第一版 */
+  --color-foreground: oklch(0.96 0.01 150); /* 高对比文字色 */
+  --color-muted: oklch(0.34 0.025 150);
+  --color-muted-foreground: oklch(0.84 0.01 150);
+  --color-border: oklch(0.38 0.03 150);
+  --color-card: oklch(0.26 0.025 150);
+  --color-card-foreground: oklch(0.96 0.01 150);
+  --color-popover: oklch(0.34 0.025 150);
+  --color-popover-foreground: oklch(0.96 0.01 150);
+
+  /* Notes */
+  --color-note: oklch(0.72 0.14 240);
+  --color-tip: oklch(0.74 0.12 160);
+  --color-important: oklch(0.75 0.16 30);
+  --color-warning: oklch(0.78 0.17 85);
+  --color-caution: oklch(0.68 0.18 25);
+}
