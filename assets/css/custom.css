@@ -1,0 +1,94 @@
+@font-face {
+  font-family: 'SmileySans';
+  src: url('/fonts/SmileySans-Oblique.otf.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  font-family: 'SmileySans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* 文章正文字体 */
+.prose {
+  font-family: 'SmileySans', ui-sans-serif, system-ui, sans-serif !important;
+}
+
+/* 针对文章内容区域的字体设置 */
+.prose,
+.prose p,
+.prose h1,
+.prose h2,
+.prose h3,
+.prose h4,
+.prose h5,
+.prose h6,
+.prose li,
+.prose blockquote,
+.prose td,
+.prose th {
+  font-family: 'SmileySans', ui-sans-serif, system-ui, sans-serif !important;
+}
+
+/* 针对代码块和行内代码的字体设置 */
+.prose code,
+.prose pre,
+.prose code:not(.chroma code),
+.prose pre:not(.chroma),
+.prose pre:not(.chroma) code,
+.chroma,
+.chroma code,
+.chroma pre {
+  font-family: 'SmileySans', 'Courier New', Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace !important;
+}
+
+/* 字体切换功能 */
+/* 默认使用自定义字体 */
+html[data-font="custom"] body,
+html[data-font="custom"] .prose,
+html[data-font="custom"] .prose *,
+html:not([data-font]) body,
+html:not([data-font]) .prose,
+html:not([data-font]) .prose * {
+  font-family: 'SmileySans', ui-sans-serif, system-ui, sans-serif !important;
+}
+
+/* 代码元素在自定义字体模式下 */
+html[data-font="custom"] .prose code,
+html[data-font="custom"] .prose pre,
+html[data-font="custom"] .prose code:not(.chroma code),
+html[data-font="custom"] .prose pre:not(.chroma),
+html[data-font="custom"] .prose pre:not(.chroma) code,
+html[data-font="custom"] .chroma,
+html[data-font="custom"] .chroma code,
+html[data-font="custom"] .chroma pre,
+html:not([data-font]) .prose code,
+html:not([data-font]) .prose pre,
+html:not([data-font]) .prose code:not(.chroma code),
+html:not([data-font]) .prose pre:not(.chroma),
+html:not([data-font]) .prose pre:not(.chroma) code,
+html:not([data-font]) .chroma,
+html:not([data-font]) .chroma code,
+html:not([data-font]) .chroma pre {
+  font-family: 'SmileySans', 'Courier New', Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace !important;
+}
+
+/* 系统字体模式 */
+html[data-font="system"] body,
+html[data-font="system"] .prose,
+html[data-font="system"] .prose * {
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif !important;
+}
+
+/* 代码元素在系统字体模式下 */
+html[data-font="system"] .prose code,
+html[data-font="system"] .prose pre,
+html[data-font="system"] .prose code:not(.chroma code),
+html[data-font="system"] .prose pre:not(.chroma),
+html[data-font="system"] .prose pre:not(.chroma) code,
+html[data-font="system"] .chroma,
+html[data-font="system"] .chroma code,
+html[data-font="system"] .chroma pre {
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Consolas, "Liberation Mono", Menlo, monospace !important;
+}

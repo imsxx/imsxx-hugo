@@ -29,6 +29,17 @@ enableEmoji = true
   language = "zh-CN"
   shortName = "梦随"
 
+  # 自定义字体配置说明
+  # 字体文件位置: static/fonts/SmileySans-Oblique.otf.woff2
+  # CSS配置文件: assets/css/custom.css
+  # 字体应用范围: 全站（包括文章正文 .prose 类）
+  # 注意: 更换主题时需要确保新主题的 baseof.html 包含自定义CSS引用
+  # 引用方式: {{ $customCSS := resources.Get "css/custom.css" | resources.Minify }}
+  #          <link rel="stylesheet" href="{{ $customCSS.RelPermalink }}">
+  
+  # 字体切换功能开关
+  showFontSwitch = true
+
   [params.logo]
     image = "/logo.png"
     link = "/"

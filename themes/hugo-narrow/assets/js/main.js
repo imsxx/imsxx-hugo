@@ -6,11 +6,13 @@ class UIManager {
       localStorage.getItem("colorScheme") ||
       document.documentElement.getAttribute("data-theme") ||
       "default";
+    this.fontType = localStorage.getItem("fontType") || "custom";
     this.init();
   }
 
   init() {
     this.setupEventListeners();
+    this.applyFont();
     this.updateUI();
   }
 
@@ -61,7 +63,7 @@ class UIManager {
 
   // 关闭其他类型的菜单 - 统一处理所有菜单类型
   closeOtherMenus(currentType) {
-    const allTypes = ['color-scheme', 'theme', 'language', 'mobile-menu'];
+    const allTypes = ['color-scheme', 'theme', 'language', 'mobile-menu', 'font'];
     allTypes.forEach(type => {
       if (type !== currentType) {
         document.querySelectorAll(`.dropdown-menu[data-dropdown-type="${type}"]`)
@@ -140,6 +142,7 @@ class UIManager {
     this.setupDropdown("color-scheme");
     this.setupDropdown("theme");
     this.setupDropdown("language");
+    this.setupDropdown("font");
 
     // 主题风格选择事件
     const colorSchemeDropdowns = document.querySelectorAll(
@@ -169,6 +172,23 @@ class UIManager {
           if (button) {
             const newTheme = button.getAttribute("data-theme");
             this.setTheme(newTheme);
+            this.closeAllMenus();
+          }
+        });
+      }
+    });
+
+    // 字体选择事件
+    const fontDropdowns = document.querySelectorAll(
+      '.dropdown-menu[data-dropdown-type="font"]',
+    );
+    fontDropdowns.forEach((dropdown) => {
+      if (dropdown) {
+        dropdown.addEventListener("click", (e) => {
+          const button = e.target.closest("[data-font-type]");
+          if (button) {
+            const newFontType = button.getAttribute("data-font-type");
+            this.setFontType(newFontType);
             this.closeAllMenus();
           }
         });
@@ -244,6 +264,10 @@ class UIManager {
     }
   }
 
+  applyFont() {
+    document.documentElement.setAttribute("data-font", this.fontType);
+  }
+
   updateUI() {
     // 更新主题图标显示 - 支持类选择器和 ID 选择器
     const sunIcons = document.querySelectorAll(".sun-icon, #sun-icon");
@@ -293,6 +317,13 @@ class UIManager {
       link.classList.toggle("bg-accent", isSelected);
       link.classList.toggle("text-accent-foreground", isSelected);
     });
+
+    // 更新字体选择状态
+    document.querySelectorAll("[data-font-type]").forEach((button) => {
+      const isSelected = button.getAttribute("data-font-type") === this.fontType;
+      button.classList.toggle("bg-accent", isSelected);
+      button.classList.toggle("text-accent-foreground", isSelected);
+    });
   }
 
   // 辅助方法：判断链接是否为当前语言
@@ -305,6 +336,20 @@ class UIManager {
     // 处理语言前缀路径的情况 (如 /zh/, /en/)
     const langPattern = new RegExp(`^/${currentLang}(/|$)`);
     return langPattern.test(href);
+  }
+
+  setFontType(fontType) {
+    this.fontType = fontType;
+    localStorage.setItem("fontType", fontType);
+    this.applyFont();
+    this.updateUI();
+
+    // 触发自定义事件，通知字体已更改
+    window.dispatchEvent(
+      new CustomEvent("fontChanged", {
+        detail: { fontType: fontType },
+      }),
+    );
   }
 }
 

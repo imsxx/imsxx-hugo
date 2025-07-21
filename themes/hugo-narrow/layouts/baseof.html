@@ -4,6 +4,8 @@
   data-theme="{{ site.Params.colorScheme | default "default" }}">
   <head>
     {{ partial "layout/head.html" . }}
+    {{ $customCSS := resources.Get "css/custom.css" | resources.Minify }}
+    <link rel="stylesheet" href="{{ $customCSS.RelPermalink }}">
     <script>
       // 主题初始化脚本
       (function() {
