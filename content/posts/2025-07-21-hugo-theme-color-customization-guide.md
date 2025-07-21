@@ -4,12 +4,14 @@ date: 2025-07-21T21:53:19+08:00
 draft: false
 author: "imsxx"
 tags: ["Hugo", "Web开发", "主题定制", "TailwindCSS"]
-categories: ["建站"]
+categories: ["技术分享"]
 ---
 
 ## 前言
 
 最近我开始使用 Hugo 搭建自己的博客，并选择了一款名为 `hugo-narrow` 的主题。这款主题简洁、美观，但在个性化方面，我希望能拥有自己独特的配色方案。于是，我踏上了定制主题配色的旅程。作为一个 Hugo 新手，我遇到了不少问题，也踩了不少坑。在这篇文章里，我将分享我如何为 `hugo-narrow` 主题创建一套自定义配色，并总结一些新手容易遇到的问题，希望能帮助你少走弯路。
+
+你可以在这里找到 `hugo-narrow` 主题的官方仓库：[https://github.com/tom2almighty/hugo-narrow](https://github.com/tom2almighty/hugo-narrow)。
 
 ## 为什么需要自定义配色？
 
