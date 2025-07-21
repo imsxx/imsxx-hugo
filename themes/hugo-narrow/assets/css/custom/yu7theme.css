@@ -1,91 +1,49 @@
 [data-theme="yu7theme"] {
-  /* 主色调 */
-  --color-primary: oklch(0.66 0.20 150.5);        /* SU7 主绿 */
-  --color-primary-hover: oklch(0.68 0.22 150.5);
-  --color-primary-active: oklch(0.64 0.20 150.5);
-  --color-primary-disabled: oklch(0.50 0.05 150);
+  --color-primary: oklch(0.65 0.19 150); /* 深翠绿色 */
+  --color-primary-foreground: oklch(0.98 0.007 150);
+  --color-secondary: oklch(0.70 0.11 130); /* 草地/树林绿 */
+  --color-secondary-foreground: oklch(0.98 0.007 150);
+  --color-accent: oklch(0.75 0.13 66); /* 晨曦阳光金 */
+  --color-accent-foreground: oklch(0.20 0.025 66);
+  --color-background: oklch(0.97 0.01 150); /* 浅灰中带一点绿 */
+  --color-foreground: oklch(0.22 0.03 150); /* 深绿文字 */
+  --color-muted: oklch(0.88 0.02 150);
+  --color-muted-foreground: oklch(0.45 0.02 150);
+  --color-border: oklch(0.80 0.015 150);
+  --color-card: oklch(0.96 0.01 150);
+  --color-card-foreground: oklch(0.22 0.03 150);
+  --color-popover: oklch(0.95 0.01 150);
+  --color-popover-foreground: oklch(0.22 0.03 150);
 
-  --color-primary-foreground: oklch(0.98 0.007 106.545); /* 几乎白 */
-
-  /* 背景 */
-  --color-bg-default: oklch(0.97 0.01 135);
-  --color-bg-muted: oklch(0.94 0.008 135);
-  --color-bg-subtle: oklch(0.89 0.01 135);
-  --color-bg-elevated: oklch(0.96 0.01 135);
-  --color-bg-sidebar: oklch(0.92 0.01 135);
-  --color-bg-selection: oklch(0.82 0.18 150.5 / 0.4); /* 半透明高光绿 */
-
-  /* 前景文字 */
-  --color-fg-primary: oklch(0.15 0.02 280);
-  --color-fg-secondary: oklch(0.35 0.02 280);
-  --color-fg-tertiary: oklch(0.50 0.01 280);
-  --color-fg-inverted: oklch(0.98 0.01 106); /* 白 */
-
-  /* 边框、分隔 */
-  --color-border: oklch(0.82 0.02 150);
-  --color-border-strong: oklch(0.65 0.03 150);
-  --color-shadow: oklch(0.25 0.02 150 / 0.15);
-
-  /* 语义色 */
-  --color-success: oklch(0.70 0.18 150);    /* 比主绿亮 */
-  --color-info: oklch(0.75 0.15 210);       /* 蓝青 */
-  --color-warning: oklch(0.75 0.20 85);     /* 橙黄 */
-  --color-error: oklch(0.65 0.22 25);       /* 红棕 */
-
-  /* 附加组件 */
-  --color-code-bg: oklch(0.92 0.01 135);
-  --color-code-fg: oklch(0.25 0.01 300);
-  --color-inline-code-bg: oklch(0.88 0.015 140);
-  --color-quote-bg: oklch(0.90 0.01 135);
-  --color-mark-bg: oklch(0.85 0.18 150);
-
-  /* 滚动条 */
-  --color-scrollbar-thumb: oklch(0.75 0.05 150);
-  --color-scrollbar-track: oklch(0.93 0.01 135);
+  /* Notes */
+  --color-note: oklch(0.70 0.12 240);     /* 蓝调提示 */
+  --color-tip: oklch(0.70 0.13 160);      /* 草绿提示 */
+  --color-important: oklch(0.70 0.15 30); /* 烈日黄棕 */
+  --color-warning: oklch(0.75 0.17 85);   /* 阳光橙 */
+  --color-caution: oklch(0.65 0.18 25);   /* 土色警示 */
 }
 
 [data-theme="yu7theme"].dark {
-  /* 主色调 */
-  --color-primary: oklch(0.58 0.16 150);
-  --color-primary-hover: oklch(0.62 0.18 150);
-  --color-primary-active: oklch(0.55 0.14 150);
-  --color-primary-disabled: oklch(0.35 0.05 150);
-
-  --color-primary-foreground: oklch(0.92 0.008 106); /* 夜间白 */
-
-  /* 背景 */
-  --color-bg-default: oklch(0.24 0.03 150);         /* 深绿黑 */
-  --color-bg-muted: oklch(0.30 0.015 150);
-  --color-bg-subtle: oklch(0.18 0.015 150);
-  --color-bg-elevated: oklch(0.29 0.02 150);
-  --color-bg-sidebar: oklch(0.20 0.01 150);
-  --color-bg-selection: oklch(0.66 0.20 150 / 0.35);
-
-  /* 前景文字 */
-  --color-fg-primary: oklch(0.92 0.008 106);
-  --color-fg-secondary: oklch(0.70 0.01 135);
-  --color-fg-tertiary: oklch(0.55 0.01 135);
-  --color-fg-inverted: oklch(0.10 0.01 270); /* 黑 */
-
-  /* 边框、分隔 */
+  --color-primary: oklch(0.72 0.20 150); /* 深翠绿色更亮一阶 */
+  --color-primary-foreground: oklch(0.15 0.035 150);
+  --color-secondary: oklch(0.65 0.13 130);
+  --color-secondary-foreground: oklch(0.16 0.03 130);
+  --color-accent: oklch(0.80 0.14 66);   /* 柔金 */
+  --color-accent-foreground: oklch(0.18 0.03 66);
+  --color-background: oklch(0.24 0.03 150); /* 夜间深绿背景，保留第一版 */
+  --color-foreground: oklch(0.96 0.01 150); /* 高对比文字色 */
+  --color-muted: oklch(0.34 0.025 150);
+  --color-muted-foreground: oklch(0.84 0.01 150);
   --color-border: oklch(0.38 0.03 150);
-  --color-border-strong: oklch(0.50 0.04 150);
-  --color-shadow: oklch(0.10 0.02 150 / 0.4);
+  --color-card: oklch(0.26 0.025 150);
+  --color-card-foreground: oklch(0.96 0.01 150);
+  --color-popover: oklch(0.34 0.025 150);
+  --color-popover-foreground: oklch(0.96 0.01 150);
 
-  /* 语义色 */
-  --color-success: oklch(0.70 0.18 150);
-  --color-info: oklch(0.70 0.13 210);
-  --color-warning: oklch(0.72 0.20 85);
-  --color-error: oklch(0.60 0.22 25);
-
-  /* 附加组件 */
-  --color-code-bg: oklch(0.30 0.015 150);
-  --color-code-fg: oklch(0.95 0.01 106);
-  --color-inline-code-bg: oklch(0.40 0.02 150);
-  --color-quote-bg: oklch(0.34 0.02 150);
-  --color-mark-bg: oklch(0.66 0.20 150 / 0.4);
-
-  /* 滚动条 */
-  --color-scrollbar-thumb: oklch(0.50 0.05 150);
-  --color-scrollbar-track: oklch(0.22 0.01 150);
+  /* Notes */
+  --color-note: oklch(0.72 0.14 240);
+  --color-tip: oklch(0.74 0.12 160);
+  --color-important: oklch(0.75 0.16 30);
+  --color-warning: oklch(0.78 0.17 85);
+  --color-caution: oklch(0.68 0.18 25);
 }
