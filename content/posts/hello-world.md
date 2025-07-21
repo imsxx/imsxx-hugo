@@ -5,6 +5,7 @@ draft: false
 
 author: "imsxx"
 description: "欢迎来到我的Hugo网站！这是第一篇测试文章。"
+tags: ['hello', 'world']
 ---
 # 欢迎来到我的Hugo网站！
 这是我使用Hugo创建的第一篇文章。Hugo是一个快速、现代的静态网站生成器，用Go语言编写。
