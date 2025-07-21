@@ -2,11 +2,8 @@
 title: 记录那些年在WordPress付费主题上花过的冤枉钱~ B2、DUX、LightSNS、Rouse、DiVi
 author: 梦随乡兮
 date: 2022-10-18 05:40:49+00:00
-打赏: null
-single_toc: null
-hide_content: null
-post_views_count: null
 slug: wordpress-theme
+categories: ["建站"]
 tags:
 - wordpress
 - theme

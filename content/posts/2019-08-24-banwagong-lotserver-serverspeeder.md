@@ -3,7 +3,7 @@ title: '搬瓦工安装锐速 教程'
 author: 梦随乡兮
 date: 2019-08-23T16:28:37+00:00
 categories:
-- 笔记
+- 建站
 tags:
 - BBR
 - 搬瓦工

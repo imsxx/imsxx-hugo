@@ -3,6 +3,7 @@ title: 使用cloudflare对新老域名进行URL转发
 author: 梦随乡兮
 date: 2022-11-06 14:33:46+00:00
 slug: cloudflare-url-zhuanfa
+categories: ["建站"]
 tags:
 - cloudflare
 - url

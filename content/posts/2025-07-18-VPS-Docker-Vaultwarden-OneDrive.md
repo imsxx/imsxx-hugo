@@ -2,8 +2,8 @@
 title: VPS + Docker + Vaultwarden 自动化备份至 OneDrive 超详细图文指南（含所有踩坑点及解决方案）
 author: 梦随乡兮
 date: 2025-07-18T00:00:00+00:00
-
 slug: "VPS-Docker-Vaultwarden-OneDrive"
+categories: ["笔记"]
 tags: 
 - VPS
 - Docker

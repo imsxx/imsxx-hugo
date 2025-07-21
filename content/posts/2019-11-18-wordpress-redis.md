@@ -5,6 +5,7 @@ date: 2019-11-18 08:00:04+00:00
 fromname_value: null
 fromurl_value: null
 slug: wordpress-redis
+categories: ["建站"]
 tags:
 - wordpress
 - redis

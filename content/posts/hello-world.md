@@ -2,8 +2,8 @@
 title: "Hello World - 我的第一篇文章"
 date: 2025-06-17T16:54:00+08:00
 draft: false
-
 author: "imsxx"
+categories: ["笔记"]
 description: "欢迎来到我的Hugo网站！这是第一篇测试文章。"
 tags: ['hello', 'world']
 ---

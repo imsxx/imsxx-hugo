@@ -3,6 +3,7 @@ title: 1panel开启WordPress的redis缓存流程 流程优化版
 author: 梦随乡兮
 date: 2024-04-17 04:39:26+00:00
 slug: 1panel-wordpress-redis
+categories: ["建站"]
 tags:
 - 1panel面板
 - wordpress

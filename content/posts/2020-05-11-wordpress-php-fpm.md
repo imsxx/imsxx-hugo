@@ -3,6 +3,7 @@ title: WordPress因php-fpm导致的服务器CPU占用爆满
 author: 梦随乡兮
 date: 2020-05-11 09:21:24+00:00
 slug: wordpress-php-fpm
+categories: ["建站"]
 tags:
 - wordpress
 - php

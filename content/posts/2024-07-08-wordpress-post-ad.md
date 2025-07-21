@@ -3,6 +3,7 @@ title: 在wordpress所有文章第二段落中插入广告
 author: 梦随乡兮
 date: 2024-07-08 07:22:23+00:00
 slug: wordpress-post-ad
+categories: ["建站"]
 tags:
 - wordpress
 - 广告优化

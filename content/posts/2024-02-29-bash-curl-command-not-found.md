@@ -3,6 +3,7 @@ title: 'debian12提示-bash: curl: command not found解决办法'
 author: 梦随乡兮
 date: 2024-02-29 02:50:01+00:00
 slug: bash-curl-command-not-found
+categories: ["建站"]
 tags:
 - bash
 - curl
