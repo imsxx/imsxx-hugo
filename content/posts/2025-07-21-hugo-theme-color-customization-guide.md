@@ -1,10 +1,10 @@
 ---
 title: "Hugo 主题配色定制指南：从零到一，避开这些坑"
-date: 2024-07-26T10:00:00+08:00
+date: 2025-07-21T21:53:19+08:00
 draft: false
 author: "imsxx"
 tags: ["Hugo", "Web开发", "主题定制", "TailwindCSS"]
-categories: ["技术分享"]
+categories: ["建站"]
 ---
 
 ## 前言
