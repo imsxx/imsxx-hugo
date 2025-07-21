@@ -6,6 +6,7 @@ theme = 'hugo-narrow'
 
 hasCJKLanguage = true
 enableEmoji = true
+timeZone = "Asia/Shanghai"
 
 permalinks = { posts = "/posts/:slug/" }
 
