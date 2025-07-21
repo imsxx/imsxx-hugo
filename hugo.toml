@@ -52,6 +52,9 @@ enableEmoji = true
     [params.themes.claude]
       name = "Claude"
       order = 2
+          [params.themes.default]
+      name = "default"
+      order = 3
 
   [params.author]
     name = "梦随乡兮"
