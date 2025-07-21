@@ -1,14 +1,15 @@
-﻿---
+---
 title: 记录那些年在WordPress付费主题上花过的冤枉钱~ B2、DUX、LightSNS、Rouse、DiVi
 author: 梦随乡兮
-
-date: 2022-10-18T05:40:49+00:00
-打赏:
-single_toc:
-hide_content:
-post_views_count:
-
-slug: "wordpress-theme"
+date: 2022-10-18 05:40:49+00:00
+打赏: null
+single_toc: null
+hide_content: null
+post_views_count: null
+slug: wordpress-theme
+tags:
+- wordpress
+- theme
 ---
 用WordPress做站也挺多年了，技术不够钞票来凑。相比于写一个主题或插件，买市面上成熟的产品是一个不错的选择。
 本文就写一下这些年在WordPress上付费买过的主题和插件，列出一些使用心得。

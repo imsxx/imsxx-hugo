@@ -1,10 +1,12 @@
-﻿---
+---
 title: 使用cloudflare对新老域名进行URL转发
 author: 梦随乡兮
-
-date: 2022-11-06T14:33:46+00:00
-
-slug: "cloudflare-url-zhuanfa"
+date: 2022-11-06 14:33:46+00:00
+slug: cloudflare-url-zhuanfa
+tags:
+- cloudflare
+- url
+- zhuanfa
 ---
 之前写过《<a title="网站利用cloudflare SaaS实现分流加速国外访问-梦随乡兮" href="https://imsxx.com/cloudflare-saas.html" target="_blank" rel="noopener">网站利用cloudflare SaaS实现分流加速国外访问</a>》，里面我提到了老域名需要跳转到新域名去。
 首先明确一下，国内域名即便是备案了也不能做URL转发，因为根据备案要求，这里就记录一下转发过程。

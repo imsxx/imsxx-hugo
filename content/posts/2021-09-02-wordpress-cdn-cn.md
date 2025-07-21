@@ -1,10 +1,12 @@
-﻿---
+---
 title: （待填坑）搭建在海外的WordPress网站如何做好国内访问
 author: 梦随乡兮
-
-date: 2021-09-02T08:13:48+00:00
-
-slug: "wordpress-cdn-cn"
+date: 2021-09-02 08:13:48+00:00
+slug: wordpress-cdn-cn
+tags:
+- wordpress
+- cdn
+- cn
 ---
 <div class="wp-block-pandastudio-title">
 <div class="title_style_01">

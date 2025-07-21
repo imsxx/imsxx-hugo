@@ -1,13 +1,12 @@
-﻿---
+---
 title: 【游戏分析】Roguelike生存割草的《弹壳特攻队》在全球市场杀疯了！
 author: 梦随乡兮
-
-date: 2022-10-25T12:40:50+00:00
-
-hide_content:
-classic-editor-remember:
-
-slug: "survivorio"
+date: 2022-10-25 12:40:50+00:00
+hide_content: null
+classic-editor-remember: null
+slug: survivorio
+tags:
+- survivorio
 ---
 <img src="https://r2.imsxx.com/wp-content/uploads/2022102410295468.jpg" alt="" width="1200" height="628" /> 《弹壳特攻队/哒哒特攻/Survivor!.io》是由海彼网络出品，创意‘借鉴’了《吸血鬼幸存者》。游戏的热度非常高，整个9月都呆在国区App Store免费榜前十，畅销榜30名以内。在国外，位列韩国9月游戏畅销榜第6位，美国iOS市场月平均位置在游戏畅销榜30位上下，日本iOS市场也是在Top50中。
 * **游戏时长：60天+**

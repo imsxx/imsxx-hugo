@@ -1,11 +1,12 @@
-﻿---
+---
 title: 游戏出海之如何在Steam上架并发行一款游戏
 author: 梦随乡兮
-
-date: 2022-10-23T17:51:23+00:00
-hide_content:
-
-slug: "youxichuhai-steam"
+date: 2022-10-23 17:51:23+00:00
+hide_content: null
+slug: youxichuhai-steam
+tags:
+- youxichuhai
+- steam
 ---
 近年来国内游戏版号发放的周期与数量一直不稳定，同时面对越来越多的国内初创团队、工作室在Steam上架游戏从中获利。不少中下游的新老团队也陆续上马。这篇文章就记录一下如何在Steam上架并发行一款游戏吧。
 * * *

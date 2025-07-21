@@ -1,11 +1,13 @@
-﻿---
+---
 title: WordPress点击发布文章时“无限加载”解决办法
 author: 梦随乡兮
-
-date: 2022-12-16T17:02:37+00:00
-suxing_ding:
-
-slug: "wordpress-post-loading"
+date: 2022-12-16 17:02:37+00:00
+suxing_ding: null
+slug: wordpress-post-loading
+tags:
+- wordpress
+- post
+- loading
 ---
 在服务器未做大调试的情况下，优先考虑插件和自写代码的问题。
 在关闭所有插件后，按个重启插件，每重启一个插件就试试文章发布是否正常，直到重启Easy WP SMTP这个邮件插件时，重启后文章点击发布就开始无限加载，加载超时后会白屏报错。

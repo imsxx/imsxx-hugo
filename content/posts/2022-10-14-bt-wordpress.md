@@ -1,10 +1,11 @@
-﻿---
+---
 title: 使用宝塔面板搭建WordPress的PHP、MySQL等全套优化
 author: 梦随乡兮
-
-date: 2022-10-14T13:57:31+00:00
-
-slug: "bt-wordpress"
+date: 2022-10-14 13:57:31+00:00
+slug: bt-wordpress
+tags:
+- bt
+- wordpress
 ---
 本文并非“使用宝塔面板如何搭建WordPress”而是<strong>“用宝塔面板搭建WordPress后如何优化”</strong>。
 <nav>

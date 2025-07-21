@@ -1,10 +1,12 @@
-﻿---
+---
 title: WordPress因php-fpm导致的服务器CPU占用爆满
 author: 梦随乡兮
-
-date: 2020-05-11T09:21:24+00:00
-
-slug: "wordpress-php-fpm"
+date: 2020-05-11 09:21:24+00:00
+slug: wordpress-php-fpm
+tags:
+- wordpress
+- php
+- fpm
 ---
 上图是解决占用之后的进程，之前2核CPU是占满的。
 这次主要是因为某个插件自带了文章标签内链功能，原理就不讲了反正我也不懂，从后台关闭这个插件后占用逐渐恢复正常水平。

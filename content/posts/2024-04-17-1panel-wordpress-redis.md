@@ -1,10 +1,12 @@
-﻿---
+---
 title: 1panel开启WordPress的redis缓存流程 流程优化版
 author: 梦随乡兮
-
-date: 2024-04-17T04:39:26+00:00
-
-slug: "1panel-wordpress-redis"
+date: 2024-04-17 04:39:26+00:00
+slug: 1panel-wordpress-redis
+tags:
+- 1panel
+- wordpress
+- redis
 ---
 之前在网上搜了一些教程，发现已经有人做过了，但中间有一些细节写错，这里自己写一版。
 首先，开启redis需要现在1panel面板里搜索安装redis组件。

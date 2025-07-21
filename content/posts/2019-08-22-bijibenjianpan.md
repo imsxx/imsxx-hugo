@@ -1,13 +1,12 @@
-﻿---
+---
 title: 禁用笔记本自带键盘教程，百度出来没一个靠谱的。
 author: 梦随乡兮
-
-date: 2019-08-22T15:46:44+00:00
-
-zrz_credit_add:
-b2_post_reading_role:
-
-slug: "bijibenjianpan"
+date: 2019-08-22 15:46:44+00:00
+zrz_credit_add: null
+b2_post_reading_role: null
+slug: bijibenjianpan
+tags:
+- bijibenjianpan
 ---
 笔记本在上个月进了雨水，虽然抢救回来勉强能用了，但是自带键盘却坏了。由于是2014年的老本子，搜索了一圈也没找到键盘，索性只能外接一个将它禁用。
 之所以禁用它是因为外键键盘会时不时的出现奇怪的输入严重影响打字体验。

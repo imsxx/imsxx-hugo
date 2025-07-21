@@ -1,13 +1,13 @@
-﻿---
+---
 title: 同一服务器下多站点使用WordPress该如何设置Redis缓存
 author: 梦随乡兮
-
-date: 2019-11-18T08:00:04+00:00
-
-fromname_value:
-fromurl_value:
-
-slug: "wordpress-redis"
+date: 2019-11-18 08:00:04+00:00
+fromname_value: null
+fromurl_value: null
+slug: wordpress-redis
+tags:
+- wordpress
+- redis
 ---
 <nav>
 </nav>
