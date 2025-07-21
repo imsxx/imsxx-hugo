@@ -50,6 +50,23 @@
 
 
 {{/* custom styles */}}
+{{ $colorScheme := site.Params.colorScheme | default "" }}
+{{ if and $colorScheme (resources.Get (printf "css/%s.css" $colorScheme)) }}
+  {{ with resources.Get (printf "css/%s.css" $colorScheme) }}
+    {{ if hugo.IsDevelopment }}
+      <link rel="stylesheet" href="{{ .RelPermalink }}" />
+    {{ else }}
+      {{ with . | minify | fingerprint }}
+        <link
+          rel="stylesheet"
+          href="{{ .RelPermalink }}"
+          integrity="{{ .Data.Integrity }}"
+          crossorigin="anonymous" />
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
 {{ range (resources.Match "css/custom/*.css") }}
   {{ if hugo.IsDevelopment }}
     <link rel="stylesheet" href="{{ .RelPermalink }}" />
