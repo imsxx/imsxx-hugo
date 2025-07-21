@@ -95,7 +95,11 @@ permalinks = { posts = "/posts/:slug/" }
   
   # 分析统计
   [params.analytics]
-    enabled = false
+    enabled = true
+
+    [params.analytics.google]
+      enabled = true
+      id = "G-FBGG2ZJ5PH"
   
   # KaTeX 数学公式
   [params.katex]
