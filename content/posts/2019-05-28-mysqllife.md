@@ -5,6 +5,9 @@ date: 2019-05-27 17:19:14+00:00
 slug: mysqllife
 tags:
 - mysqllife
+- 服务器
+- 进程
+- 网站开发
 ---
 最近网站访问一高就会挂掉，之前看了不少网上大佬的教程发现每一个能用的。估计不是同一病症。
 > **Error establishing a database connection**

@@ -6,6 +6,7 @@ slug: iphonex-dfu
 tags:
 - iphonex
 - dfu
+- 刷机
 ---
 接上一篇文章，<a href="https://imsxx.com/itunes-ios.html" target="_blank" rel="noopener noreferrer">win10下iTunes恢复iOS版本提示“磁盘已满”的解决办法</a>。
 iOS13降级到iOS12并不容易，通过iTunes恢复后开机出现白苹果并自动关机。原以为是数据有个熄屏的恢复过程，结果等了半个小时都没好。于是猜想可能是iOS13和iOS12的文件结构不同导致降级恢复出现问题。

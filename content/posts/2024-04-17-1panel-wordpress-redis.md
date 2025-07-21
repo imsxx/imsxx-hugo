@@ -4,7 +4,7 @@ author: 梦随乡兮
 date: 2024-04-17 04:39:26+00:00
 slug: 1panel-wordpress-redis
 tags:
-- 1panel
+- 1panel面板
 - wordpress
 - redis
 ---

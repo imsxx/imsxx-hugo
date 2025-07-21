@@ -5,8 +5,7 @@ date: 2024-07-08 07:22:23+00:00
 slug: wordpress-post-ad
 tags:
 - wordpress
-- post
-- ad
+- 广告优化
 ---
 将下面这段代码添加到网站根目录下functions.php文件中，添加到文件的最后即可。如果你添加了没有生效，先清空缓存试试，再看看你使用的主题模板是否有单独的functions.php自定义文件调用。
 <pre>function insert_after_first_paragraph($content) {

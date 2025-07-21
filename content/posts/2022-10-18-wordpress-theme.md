@@ -10,6 +10,7 @@ slug: wordpress-theme
 tags:
 - wordpress
 - theme
+- 主题
 ---
 用WordPress做站也挺多年了，技术不够钞票来凑。相比于写一个主题或插件，买市面上成熟的产品是一个不错的选择。
 本文就写一下这些年在WordPress上付费买过的主题和插件，列出一些使用心得。

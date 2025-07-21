@@ -6,7 +6,7 @@ suxing_ding: null
 slug: wordpress-post-loading
 tags:
 - wordpress
-- post
+- 建站
 - loading
 ---
 在服务器未做大调试的情况下，优先考虑插件和自写代码的问题。

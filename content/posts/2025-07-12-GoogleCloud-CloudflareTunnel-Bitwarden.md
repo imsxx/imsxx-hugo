@@ -4,7 +4,11 @@ author: 梦随乡兮
 date: 2025-07-12T00:00:00+00:00
 
 slug: "Bitwarden"
-tags: ['GoogleCloud', 'CloudflareTunnel', 'Bitwarden']
+tags: 
+- GoogleCloud
+- CloudflareTunnel
+- Bitwarden
+- Vaultwarden
 ---
 
 最近一些网站密码被泄露了，才发现自己用谷歌浏览器已经存了700+密码，而且不少密码都是相同的，这还是蛮危险的。今天把所有密码都迁移到Bitwarden了，这篇教程将手把手教你利用 **Google Cloud** 和 **Cloudflare** 提供的永久免费服务，搭建一个完全属于你自己的、安全、私密且**零成本**的**Bitwarden**密码库。

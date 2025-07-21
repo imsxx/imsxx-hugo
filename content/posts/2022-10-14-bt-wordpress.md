@@ -4,8 +4,10 @@ author: 梦随乡兮
 date: 2022-10-14 13:57:31+00:00
 slug: bt-wordpress
 tags:
-- bt
+- 宝塔面板
 - wordpress
+- PHP
+- MySQL
 ---
 本文并非“使用宝塔面板如何搭建WordPress”而是<strong>“用宝塔面板搭建WordPress后如何优化”</strong>。
 <nav>
