@@ -5,13 +5,14 @@ draft: false
 author: "imsxx"
 tags: ["Hugo", "Web开发", "主题定制", "TailwindCSS"]
 categories: ["建站"]
+slug: "hugo-theme-color-customization-guide"
 ---
 
 ## 前言
 
-最近我开始使用 Hugo 搭建自己的博客，并选择了一款名为 `hugo-narrow` 的主题。这款主题简洁、美观，但在个性化方面，我希望能拥有自己独特的配色方案。于是，我踏上了为 `hugo-narrow` 主题定制配色方案的旅程。作为一个 Hugo 新手，我遇到了不少问题，也踩了不少坑。在这篇文章里，我将分享我如何为 `hugo-narrow` 主题创建一套名为 `yu7` 的自定义配色，并总结一些新手容易遇到的问题，希望能帮助你少走弯路。
+最近我开始使用 Hugo 搭建自己的博客，并选择了一款名为 `hugo-narrow` 的主题。这款主题简洁、美观，但在个性化方面，我希望能拥有自己独特的配色方案。于是，我踏上了为 `hugo-narrow` 主题定制配色方案的旅程。作为一个 Hugo 新手，我遇到了不少问题，也踩了不少坑。在这篇文章里，我将分享我如何为 `hugo-narrow` 主题创建一套名为 `yuqi` 的自定义配色，并总结一些新手容易遇到的问题，希望能帮助你少走弯路。
 
-值得一提的是，这套 `yu7` 配色方案的灵感，来源于小米汽车 SU7 的创始版霞光紫，我非常喜欢这款颜色的质感，希望能在我的博客上复现类似的感觉。
+值得一提的是，这套 `yuqi` 配色方案的灵感，来源于小米汽车 YU7 的宝石绿，我非常喜欢这款颜色的质感，希望能在我的博客上复现类似的感觉。
 
 你可以在这里找到 `hugo-narrow` 主题的官方仓库：[https://github.com/tom2almighty/hugo-narrow](https://github.com/tom2almighty/hugo-narrow)。
 
@@ -27,10 +28,10 @@ categories: ["建站"]
 
 ## 创建你的配色文件
 
-接下来，在 `custom` 文件夹中，我创建了一个名为 `yu7.css` 的文件。这个文件将用来定义我自己的配色方案。文件内容如下：
+接下来，在 `custom` 文件夹中，我创建了一个名为 `yuqi.css` 的文件。这个文件将用来定义我自己的配色方案。文件内容如下：
 
 ```css
-[data-theme="yu7"] {
+[data-theme="yuqi"] {
   --color-primary: oklch(0.65 0.19 150); /* 深翠绿色 */
   --color-primary-foreground: oklch(0.98 0.007 150);
   --color-secondary: oklch(0.70 0.11 130); /* 草地/树林绿 */
@@ -55,7 +56,7 @@ categories: ["建站"]
   --color-caution: oklch(0.65 0.18 25);   /* 土色警示 */
 }
 
-[data-theme="yu7"].dark {
+[data-theme="yuqi"].dark {
   --color-primary: oklch(0.72 0.20 150); /* 深翠绿色更亮一阶 */
   --color-primary-foreground: oklch(0.15 0.035 150);
   --color-secondary: oklch(0.65 0.13 130);
@@ -81,7 +82,7 @@ categories: ["建站"]
 }
 ```
 
-这里我定义了一个名为 `yu7` 的配色方案，并分别为亮色模式和暗色模式设置了不同的颜色变量。
+这里我定义了一个名为 `yuqi` 的配色方案，并分别为亮色模式和暗色模式设置了不同的颜色变量。
 
 ## 关键一步：编译 CSS
 
@@ -105,12 +106,12 @@ npx tailwindcss -i ./themes/hugo-narrow/assets/css/main.css -o ./themes/hugo-nar
 
 ## 启用新主题
 
-编译完成后，还需要在 Hugo 的配置文件 `hugo.toml` 中启用我们的新主题。在 `[params]` 部分，找到 `colorScheme` 配置项，将其值改为我们定义的配色方案名称 `yu7`。
+编译完成后，还需要在 Hugo 的配置文件 `hugo.toml` 中启用我们的新主题。在 `[params]` 部分，找到 `colorScheme` 配置项，将其值改为我们定义的配色方案名称 `yuqi`。
 
 ```toml
 [params]
     # ... 其他配置
-    colorScheme = "yu7"
+    colorScheme = "yuqi"
 ```
 
 现在，重启 Hugo 服务器，你就能看到全新的配色方案了！

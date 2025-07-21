@@ -43,7 +43,7 @@ enableEmoji = true
   showDarkModeSwitch = true
   showLanguageSwitch = false
 
-  colorScheme = "yu7"
+  colorScheme = "default"
 
   [params.themes]
     [params.themes.default]
@@ -58,8 +58,8 @@ enableEmoji = true
     [params.themes.nord]
       name = "Nord"
       order = 4
-    [params.themes.yu7]
-      name = "yu7"
+    [params.themes.yuqi]
+      name = "yuqi"
       order = 5
 
   [params.author]
