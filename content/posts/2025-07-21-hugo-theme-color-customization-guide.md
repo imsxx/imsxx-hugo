@@ -4,7 +4,7 @@ date: 2025-07-21T21:53:19+08:00
 draft: false
 author: "imsxx"
 tags: ["Hugo", "Web开发", "主题定制", "TailwindCSS"]
-categories: ["技术分享"]
+categories: ["建站"]
 ---
 
 ## 前言
@@ -28,28 +28,58 @@ categories: ["技术分享"]
 接下来，在 `custom` 文件夹中，我创建了一个名为 `yu7theme.css` 的文件。这个文件将用来定义我自己的配色方案。文件内容如下：
 
 ```css
-[data-theme='yu7'] {
-    --color-accent: 255 95 58;
-    --color-accent-foreground: 255 255 255;
-    --color-background: 242 242 247;
-    --color-foreground: 28 28 30;
-    --color-muted: 142 142 147;
-    --color-muted-foreground: 28 28 30;
-    --color-border: 209 209 214;
+[data-theme="yu7theme"] {
+  --color-primary: oklch(0.65 0.19 150); /* 深翠绿色 */
+  --color-primary-foreground: oklch(0.98 0.007 150);
+  --color-secondary: oklch(0.70 0.11 130); /* 草地/树林绿 */
+  --color-secondary-foreground: oklch(0.98 0.007 150);
+  --color-accent: oklch(0.88 0.02 150); 
+  --color-accent-foreground: oklch(0.45 0.02 150);
+  --color-background: oklch(0.97 0.01 150); /* 浅灰中带一点绿 */
+  --color-foreground: oklch(0.22 0.03 150); /* 深绿文字 */
+  --color-muted: oklch(0.88 0.02 150);
+  --color-muted-foreground: oklch(0.45 0.02 150);
+  --color-border: oklch(0.80 0.015 150);
+  --color-card: oklch(0.96 0.01 150);
+  --color-card-foreground: oklch(0.22 0.03 150);
+  --color-popover: oklch(0.95 0.01 150);
+  --color-popover-foreground: oklch(0.22 0.03 150);
+
+  /* Notes */
+  --color-note: oklch(0.70 0.12 240);     /* 蓝调提示 */
+  --color-tip: oklch(0.70 0.13 160);      /* 草绿提示 */
+  --color-important: oklch(0.70 0.15 30); /* 烈日黄棕 */
+  --color-warning: oklch(0.75 0.17 85);   /* 阳光橙 */
+  --color-caution: oklch(0.65 0.18 25);   /* 土色警示 */
 }
 
-[data-theme='yu7'][data-mode='dark'] {
-    --color-accent: 255 105 68;
-    --color-accent-foreground: 255 255 255;
-    --color-background: 28 28 30;
-    --color-foreground: 242 242 247;
-    --color-muted: 142 142 147;
-    --color-muted-foreground: 242 242 247;
-    --color-border: 84 84 88;
+[data-theme="yu7theme"].dark {
+  --color-primary: oklch(0.72 0.20 150); /* 深翠绿色更亮一阶 */
+  --color-primary-foreground: oklch(0.15 0.035 150);
+  --color-secondary: oklch(0.65 0.13 130);
+  --color-secondary-foreground: oklch(0.16 0.03 130);
+  --color-accent: oklch(0.34 0.025 150);   
+  --color-accent-foreground: oklch(0.84 0.01 150);
+  --color-background: oklch(0.24 0.03 150); /* 夜间深绿背景，保留第一版 */
+  --color-foreground: oklch(0.96 0.01 150); /* 高对比文字色 */
+  --color-muted: oklch(0.34 0.025 150);
+  --color-muted-foreground: oklch(0.84 0.01 150);
+  --color-border: oklch(0.38 0.03 150);
+  --color-card: oklch(0.26 0.025 150);
+  --color-card-foreground: oklch(0.96 0.01 150);
+  --color-popover: oklch(0.34 0.025 150);
+  --color-popover-foreground: oklch(0.96 0.01 150);
+
+  /* Notes */
+  --color-note: oklch(0.72 0.14 240);
+  --color-tip: oklch(0.74 0.12 160);
+  --color-important: oklch(0.75 0.16 30);
+  --color-warning: oklch(0.78 0.17 85);
+  --color-caution: oklch(0.68 0.18 25);
 }
 ```
 
-这里我定义了一个名为 `yu7` 的新主题，并分别为亮色模式和暗色模式设置了不同的颜色变量。
+这里我定义了一个名为 `yu7theme` 的新主题，并分别为亮色模式和暗色模式设置了不同的颜色变量。
 
 ## 关键一步：编译 CSS
 
@@ -73,12 +103,12 @@ npx tailwindcss -i ./themes/hugo-narrow/assets/css/main.css -o ./themes/hugo-nar
 
 ## 启用新主题
 
-编译完成后，还需要在 Hugo 的配置文件 `hugo.toml` 中启用我们的新主题。在 `[params]` 部分，找到 `theme` 配置项，将其值改为我们定义的主题名称 `yu7`。
+编译完成后，还需要在 Hugo 的配置文件 `hugo.toml` 中启用我们的新主题。在 `[params]` 部分，找到 `theme` 配置项，将其值改为我们定义的主题名称 `yu7theme`。
 
 ```toml
 [params]
   # ... 其他配置
-  theme = "yu7"
+  theme = "yu7theme"
 ```
 
 现在，重启 Hugo 服务器，你就能看到全新的配色方案了！
