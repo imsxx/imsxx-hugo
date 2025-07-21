@@ -1,5 +1,5 @@
 ---
-title: Hugo 主题配色定制指南：从零到一，避开这些坑
+title: hugo-narrow主题配色定制指南：从零到一，避开这些坑
 date: 2025-07-20T21:53:19+08:00
 draft: false
 author: 梦随乡兮
