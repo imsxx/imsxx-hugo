@@ -40,7 +40,7 @@ permalinks = { posts = "/posts/:slug/" }
   [params.author]
     name = "梦随乡兮"
     title = "四川·成都"
-    description = "一年也更新不了几次，干脆搬github上白嫖了"
+    description = "对编程感兴趣的非程序员"
     avatar = "/logo.png"
     
     [[params.author.social]]
