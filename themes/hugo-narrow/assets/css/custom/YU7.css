@@ -1,0 +1,49 @@
+/* 小米SU7宝石绿主题 - 博客配色方案 */
+
+/* 白天模式配色 */
+[data-theme="YU7"] {
+  --color-primary: oklch(0.66 0.20 150.5); /* SU7 绿 */
+  --color-primary-foreground: oklch(0.98 0.007 106.545); /* 几乎白色，略暖，确保对比 */
+
+  --color-accent: oklch(0.78 0.24 147); /* 高光绿 */
+  --color-accent-foreground: oklch(0.20 0.03 150); /* 深绿灰，适合按钮文字 */
+
+  --color-background: oklch(0.97 0.01 135); /* 淡奶白偏绿，清爽底色 */
+  --color-foreground: oklch(0.30 0.022 277.508); /* 深灰文案 */
+  --color-border: oklch(0.82 0.02 150); /* 柔和绿灰边框 */
+  --color-muted: oklch(0.89 0.015 135); /* 淡灰绿背景 */
+  --color-muted-foreground: oklch(0.45 0.02 135); /* 暗文本 */
+
+  --color-card: oklch(0.96 0.01 135);
+  --color-card-foreground: oklch(0.30 0.022 277.508);
+
+  --color-note: oklch(0.72 0.18 58); /* 木橙色，强调提示 */
+  --color-tip: oklch(0.70 0.17 150); /* 次主色偏冷 */
+  --color-important: oklch(0.78 0.24 147); /* 高亮绿 */
+  --color-warning: oklch(0.75 0.20 85); /* 橙黄警示 */
+  --color-caution: oklch(0.65 0.22 25); /* 红棕低明度 */
+}
+
+/* 夜间模式配色 */
+[data-theme="YU7"].dark {
+  --color-primary: oklch(0.58 0.16 150); /* 深翠绿，压暗处理 */
+  --color-primary-foreground: oklch(0.90 0.01 190); /* 夜间冷色文字 */
+
+  --color-accent: oklch(0.70 0.18 147); /* 稍亮一点的高光绿 */
+  --color-accent-foreground: oklch(0.20 0.02 150); /* 深绿灰 */
+
+  --color-background: oklch(0.24 0.03 150); /* 极光黑绿 */
+  --color-foreground: oklch(0.92 0.008 106); /* 明亮文本 */
+  --color-border: oklch(0.38 0.03 150); /* 深绿灰边框 */
+  --color-muted: oklch(0.30 0.015 150); /* 低亮度背景块 */
+  --color-muted-foreground: oklch(0.68 0.01 135); /* 灰绿文字 */
+
+  --color-card: oklch(0.29 0.02 150); /* 深卡片背景 */
+  --color-card-foreground: oklch(0.92 0.008 106); /* 保持明亮可读 */
+
+  --color-note: oklch(0.65 0.18 58); /* 深橙提示 */
+  --color-tip: oklch(0.60 0.16 150); /* 次主色调 */
+  --color-important: oklch(0.75 0.20 147); /* 夜间高亮 */
+  --color-warning: oklch(0.70 0.22 85); /* 黄色警示 */
+  --color-caution: oklch(0.58 0.20 25); /* 红褐 */
+}  
