@@ -43,24 +43,15 @@ enableEmoji = true
   showDarkModeSwitch = true
   showLanguageSwitch = false
 
-  colorScheme = "default"
+  colorScheme = "yu7"
 
   [params.themes]
-    [params.themes.default]
-      name = "Default"
+    [params.themes.yu7]
+      name = "yu7"
       order = 1
     [params.themes.claude]
       name = "Claude"
       order = 2
-    [params.themes.emerald]
-      name = "Emerald"
-      order = 3
-    [params.themes.nord]
-      name = "Nord"
-      order = 4
-    [params.themes.yuqi]
-      name = "yuqi"
-      order = 5
 
   [params.author]
     name = "梦随乡兮"
