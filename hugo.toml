@@ -54,7 +54,7 @@ enableEmoji = true
   showDarkModeSwitch = true
   showLanguageSwitch = false
 
-  colorScheme = "default"
+  colorScheme = "yu7"
 
   [params.themes]
     [params.themes.yu7]
