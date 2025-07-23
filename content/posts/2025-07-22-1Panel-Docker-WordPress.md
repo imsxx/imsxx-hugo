@@ -1,5 +1,5 @@
 ---
-title: 博文标题：从1Panel初探Docker：一份WordPress部署逻辑与实践笔记
+title: 从1Panel初探Docker：一份WordPress部署逻辑与实践笔记
 date: 2025-07-22T21:53:19+08:00
 draft: false
 author: 梦随乡兮
