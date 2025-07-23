@@ -18,7 +18,7 @@ categories: ["建站"]
 
 值得一提的是，这套 `yu7` 配色方案的灵感，来源于小米 YU7 的宝石绿，我非常喜欢这款颜色的质感，希望能在我的博客上复现类似的感觉。
 
-你可以在这里找到 `hugo-narrow` 主题的官方仓库：[https://github.com/tom2almighty/hugo-narrow](https://github.com/tom2almighty/hugo-narrow){target="_blank"}。
+你可以在这里找到 `hugo-narrow` 主题的官方仓库：<a href="https://github.com/tom2almighty/hugo-narrow" target="_blank" rel="noopener noreferrer">Hugo Narrow on GitHub</a>。
 
 ## 为什么需要自定义配色？
 
