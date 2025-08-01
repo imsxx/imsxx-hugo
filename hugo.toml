@@ -108,6 +108,15 @@ enableEmoji = true
     smoothScroll = true
     hideOnComplete = false
 
+  # 代码块配置
+  [params.codeblock]
+    [params.codeblock.collapse]
+      enabled = false  # 禁用代码块折叠功能
+      defaultState = "expanded"
+      autoCollapseLines = 30
+      autoCollapseHeight = 400
+      collapsedHeight = 120
+
 [outputs]
   home = ["HTML", "RSS", "JSON", "WebAppManifest"]
 

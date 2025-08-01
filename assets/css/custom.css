@@ -7,12 +7,12 @@
 }
 
 body {
-  font-family: 'SmileySans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
 }
 
 /* 文章正文字体 */
 .prose {
-  font-family: 'SmileySans', ui-sans-serif, system-ui, sans-serif !important;
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif !important;
 }
 
 /* 针对文章内容区域的字体设置 */
@@ -28,7 +28,7 @@ body {
 .prose blockquote,
 .prose td,
 .prose th {
-  font-family: 'SmileySans', ui-sans-serif, system-ui, sans-serif !important;
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif !important;
 }
 
 /* 针对代码块和行内代码的字体设置 */
@@ -40,18 +40,18 @@ body {
 .chroma,
 .chroma code,
 .chroma pre {
-  font-family: 'SmileySans', 'Courier New', Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace !important;
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Consolas, "Liberation Mono", Menlo, monospace !important;
 }
 
 /* 字体切换功能 */
-/* 默认使用自定义字体 */
+/* 默认使用系统字体 */
 html[data-font="custom"] body,
 html[data-font="custom"] .prose,
 html[data-font="custom"] .prose *,
 html:not([data-font]) body,
 html:not([data-font]) .prose,
 html:not([data-font]) .prose * {
-  font-family: 'SmileySans', ui-sans-serif, system-ui, sans-serif !important;
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif !important;
 }
 
 /* 代码元素在自定义字体模式下 */
@@ -71,7 +71,7 @@ html:not([data-font]) .prose pre:not(.chroma) code,
 html:not([data-font]) .chroma,
 html:not([data-font]) .chroma code,
 html:not([data-font]) .chroma pre {
-  font-family: 'SmileySans', 'Courier New', Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace !important;
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Consolas, "Liberation Mono", Menlo, monospace !important;
 }
 
 /* 系统字体模式 */
